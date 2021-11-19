@@ -1,0 +1,844 @@
+{
+    "1000": [
+        {
+            "id": 102,
+            "name": "Baharr-1Phase-R-VerticalChop_Shot_End[Atk03Shot_Atk03End][ForNormal]-Normal",
+            "parentId": 303510
+        },
+        {
+            "id": 103,
+            "name": "Baharr-1Phase-R-VerticalChop_Shot[Atk03Shot][ForBlazed][ForNormal]-Normal",
+            "parentId": 303510
+        },
+        {
+            "id": 104,
+            "name": "Baharr-1Phase-R-VerticalChop_HeavySmash[Atk03End_Atk05End02][HandChange][ForBlazed][ForNormal][Guard]-Normal",
+            "parentId": 303510
+        },
+        {
+            "id": 108,
+            "name": "Baharr-1Phase-R-HammerBackDrop_Start[BackAtk01]-Normal",
+            "parentId": 303510
+        },
+        {
+            "id": 109,
+            "name": "Baharr-1Phase-R-HammerBackDrop_Hold[BackAtk01_Hold]-Normal",
+            "parentId": 303510
+        },
+        {
+            "id": 110,
+            "name": "Baharr-1Phase-R-HammerBackDrop_End[BackAtk01_End][HandChange]-Normal",
+            "parentId": 303510
+        },
+        {
+            "id": 111,
+            "name": "Baharr-1Phase-R-HammerBackDrop_End_TurnoverStrike[BackAtk01_End-BackAtk02][ForBlazed]-Normal",
+            "parentId": 303510
+        },
+        {
+            "id": 113,
+            "name": "Baharr-1Phase-R-ThrowingHammer_Throw[HeavyAtk01_Start][Guard]-Normal",
+            "parentId": 303510
+        },
+        {
+            "id": 114,
+            "name": "Baharr-1Phase-R-ThrowingHammer_Punch[HeavyAtk01_End01][Guard][Evade][Invincible]-Normal",
+            "parentId": 303510
+        },
+        {
+            "id": 115,
+            "name": "Baharr-1Phase-R-ThrowingHammer_UpperBash[HeavyAtk02][Guard][Evade][Invincible]-Normal",
+            "parentId": 303510
+        },
+        {
+            "id": 116,
+            "name": "Baharr-1Phase-R-ThrowingHammer_BackSwing_FistAtk[HeavyAtk01_End02-LongAtk01_End][Turnover][Guard][Evade][Invincible]-Normal",
+            "parentId": 303510
+        },
+        {
+            "id": 117,
+            "name": "Baharr-1Phase-R-LeapAttack[MoveAttack][HandChange][Fast][Guard]-Normal",
+            "parentId": 303510
+        },
+        {
+            "id": 118,
+            "name": "Baharr-1Phase-R-LeapAttack[MoveAttack][HandChange][Fast][Guard]-Normal",
+            "parentId": 303510
+        },
+        {
+            "id": 121,
+            "name": "Baharr-1Phase-R-PoundingAtk_01Set[LRLR]-Normal",
+            "parentId": 303510
+        },
+        {
+            "id": 131,
+            "name": "Baharr-1Phase-L-HeavySmash_Smash[Atk04_Start]-Normal",
+            "parentId": 303510
+        },
+        {
+            "id": 132,
+            "name": "Baharr-1Phase-L-HeavySmash_Loop[Atk04_Loop]-Normal",
+            "parentId": 303510
+        },
+        {
+            "id": 133,
+            "name": "Baharr-1Phase-L-HeavySmash_Return[Atk04_End01]-Normal",
+            "parentId": 303510
+        },
+        {
+            "id": 134,
+            "name": "Baharr-1Phase-L-HeavySmash_Pulling[Atk04_End02][Evade]-Normal",
+            "parentId": 303510
+        },
+        {
+            "id": 136,
+            "name": "Baharr-1Phase-L-TurnoverStrike[BackAtk02][HandChange][Slow]-Normal",
+            "parentId": 303510
+        },
+        {
+            "id": 137,
+            "name": "Baharr-1Phase-L-TurnoverStrike[BackAtk02][HandChange][Fast]-Normal",
+            "parentId": 303510
+        },
+        {
+            "id": 138,
+            "name": "Baharr-1Phase-L-UpperBash[HeavyAtk02][HandChange][Guard][Evade][Invincible]-Normal",
+            "parentId": 303510
+        },
+        {
+            "id": 139,
+            "name": "Baharr-2Phase-L-WhirlBlow[ReactionAtk][HandChange][Guard]-Normal",
+            "parentId": 303510
+        },
+        {
+            "id": 140,
+            "name": "Baharr-1Phase-L-PoundingAtk_01Set[RLRL][HandChange]-Normal",
+            "parentId": 303510
+        },
+        {
+            "id": 201,
+            "name": "Baharr-1Phase-Scene_Invade[Scene_Invade][Guard]-Dungeon",
+            "parentId": 303510
+        },
+        {
+            "id": 314,
+            "name": "Baharr-2Phase-R-Howling[ReadyAction_R][Guard][Evade][Invincible][Shield][KeepPeace]-Dungeon",
+            "parentId": 303510
+        },
+        {
+            "id": 315,
+            "name": "Baharr-2Phase-L-Howling[ReadyAction_L][Guard][Evade][Invincible][Shield][KeepPeace]-Dungeon",
+            "parentId": 303510
+        },
+        {
+            "id": 401,
+            "name": "Baharr-1Phase-PoundingAtk_RightHitBox[Projectile][Guard][Evade][Invincible]-Normal",
+            "parentId": 303510
+        },
+        {
+            "id": 402,
+            "name": "Baharr-1Phase-PoundingAtk_LeftHitBox[Projectile][Guard][Evade][Invincible]-Normal",
+            "parentId": 303510
+        }
+    ],
+    "1050": [
+        {
+            "id": 101,
+            "name": "none",
+            "parentId": 600960
+        }
+    ],
+    "1051": [
+        {
+            "id": 101,
+            "name": "하이엘프 남 중갑5 창기사 창기사_1콤보_combo1_노말",
+            "parentId": 530510
+        },
+        {
+            "id": 103,
+            "name": "하이엘프 남 중갑5 창기사 창기사_방패방어_Defence_노말",
+            "parentId": 530510
+        },
+        {
+            "id": 104,
+            "name": "하이엘프 남 중갑5 창기사 창기사_강력한돌진_screwThrough_노말",
+            "parentId": 530510
+        },
+        {
+            "id": 105,
+            "name": "하이엘프 남 중갑5 창기사 창기사_방패치기_ShieldStrike_노말",
+            "parentId": 530510
+        },
+        {
+            "id": 106,
+            "name": "하이엘프 남 중갑5 창기사 창기사_반격찌르기_Riposte_노말",
+            "parentId": 530510
+        },
+        {
+            "id": 107,
+            "name": "하이엘프 남 중갑5 창기사 창기사_도발의포효_Roar_노말",
+            "parentId": 530510
+        },
+        {
+            "id": 110,
+            "name": "하이엘프 남 중갑5 창기사 창기사_2콤보_combo2_노말",
+            "parentId": 530510
+        },
+        {
+            "id": 111,
+            "name": "하이엘프 남 중갑5 창기사 창기사_3콤보_combo3_노말",
+            "parentId": 530510
+        },
+        {
+            "id": 112,
+            "name": "하이엘프 남 중갑5 창기사 창기사 전투의 의지",
+            "parentId": 530510
+        },
+        {
+            "id": 113,
+            "name": "하이엘프 남 중갑5 창기사 창기사 신뢰의 오라 III",
+            "parentId": 530510
+        },
+        {
+            "id": 114,
+            "name": "하이엘프 남 중갑5 창기사 창기사 분노 유발",
+            "parentId": 530510
+        },
+        {
+            "id": 301,
+            "name": "무적걸기",
+            "parentId": 530510
+        }
+    ],
+    "1053": [
+        {
+            "id": 101,
+            "name": "사제_징벌의 빛_Holy Shot_Cast 01",
+            "parentId": 527020
+        },
+        {
+            "id": 107,
+            "name": "사제_각성_Recovery_Cast 01",
+            "parentId": 527020
+        },
+        {
+            "id": 201,
+            "name": "사제_조금 차는 힐",
+            "parentId": 527020
+        },
+        {
+            "id": 202,
+            "name": "사제_많이 차는 힐",
+            "parentId": 527020
+        },
+        {
+            "id": 203,
+            "name": "사제_방어 버프",
+            "parentId": 527020
+        },
+        {
+            "id": 204,
+            "name": "사제_축복 해제",
+            "parentId": 527020
+        },
+        {
+            "id": 301,
+            "name": "무적 걸기",
+            "parentId": 527020
+        }
+    ],
+    "1060": [
+        {
+            "id": 101,
+            "name": "사제 소환 마석",
+            "parentId": 600962
+        }
+    ],
+    "2000": [
+        {
+            "id": 101,
+            "name": "Baharr-2Phase-R-NormalSmash[Atk01]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 102,
+            "name": "Baharr-2Phase-R-VerticalChop_Shot_End[Atk03Shot_Atk03End][ForNormal]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 103,
+            "name": "Baharr-2Phase-R-VerticalChop_Shot[Atk03Shot][ForBlazed][ForNormal]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 104,
+            "name": "Baharr-2Phase-R-VerticalChop_HeavySmash[Atk03End_Atk05End02][HandChange][ForBlazed][ForNormal][Guard]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 105,
+            "name": "Baharr-2Phase-R-HorizontalSwing_Swing[Atk05_Start]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 106,
+            "name": "Baharr-2Phase-R-HorizontalSwing_Return[Atk05End01]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 107,
+            "name": "Baharr-2Phase-R-HorizontalSwing_HeavySmash[Atk05End02][Guard]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 108,
+            "name": "Baharr-2Phase-R-HammerBackDrop_Start[BackAtk01]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 109,
+            "name": "Baharr-2Phase-R-HammerBackDrop_Hold[BackAtk01_Hold]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 110,
+            "name": "Baharr-2Phase-R-HammerBackDrop_End[BackAtk01_End][HandChange]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 111,
+            "name": "Baharr-2Phase-R-HammerBackDrop_End_TurnoverStrike[BackAtk01_End-BackAtk02][ForBlazed]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 112,
+            "name": "Baharr-2Phase-R-HammerBackDrop_End_PommelBash[BackAtk01_End-Atk06][ForBlazed][PerfectGuard][Evade]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 113,
+            "name": "Baharr-2Phase-R-ThrowingHammer_Throw[HeavyAtk01_Start][Guard]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 114,
+            "name": "Baharr-2Phase-R-ThrowingHammer_Punch[HeavyAtk01_End01][Guard][Evade][Invincible]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 115,
+            "name": "Baharr-2Phase-R-ThrowingHammer_UpperBash[HeavyAtk02][Guard][Evade][Invincible]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 116,
+            "name": "Baharr-2Phase-R-ThrowingHammer_BackSwing_FistAtk[HeavyAtk01_End02-LongAtk01_End][Turnover][Guard][Evade][Invincible]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 117,
+            "name": "Baharr-2Phase-R-LeapAttack[MoveAttack][HandChange][Fast][ForST][Guard]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 118,
+            "name": "Baharr-2Phase-R-LeapAttack[MoveAttack][HandChange][Fast][Guard]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 119,
+            "name": "Baharr-2Phase-R-WeaponSwap_TurnoverSmash[ChangeWeaponRtoL-UltraAtk01_Shot05][Guard][Evade][Invincible]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 120,
+            "name": "Baharr-2Phase-R-WeaponSwap_TurnoverSmash[ChangeWeaponRtoL-UltraAtk01_Shot04][Guard][Evade][Invincible]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 121,
+            "name": "Baharr-2Phase-R-PoundingAtk_01Set[LRLR][Guard][Evade][Invincible]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 122,
+            "name": "Baharr-2Phase-R-PoundingAtk_02Set[LRLR][Guard][Evade][Invincible]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 123,
+            "name": "Baharr-2Phase-R-PoundingAtk_03Set[LRLR][Guard][Evade][Invincible]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 124,
+            "name": "Baharr-2Phase-R-VerticalChop_Shot_End[Atk03Shot_Atk03End][ForRage]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 125,
+            "name": "Baharr-2Phase-R-VerticalChop_Shot[Atk03Shot][ForBlazed][ForRage]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 126,
+            "name": "Baharr-2Phase-R-VerticalChop_HeavySmash[Atk03End_Atk05End02][ForBlazed][ForRage][Guard]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 127,
+            "name": "Baharr-2Phase-R-VerticalChop_Pulling[Atk05End03][ForBlazed][ForRage][Evade]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 131,
+            "name": "Baharr-2Phase-L-HeavySmash_Smash[Atk04_Start]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 132,
+            "name": "Baharr-2Phase-L-HeavySmash_Loop[Atk04_Loop]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 133,
+            "name": "Baharr-2Phase-L-HeavySmash_Return[Atk04_End01]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 134,
+            "name": "Baharr-2Phase-L-HeavySmash_Pulling[Atk04_End02][Evade]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 135,
+            "name": "Baharr-2Phase-L-PommelBash[Atk06][HandChange][PerfectGuard][Evade]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 136,
+            "name": "Baharr-2Phase-L-TurnoverStrike[BackAtk02][HandChange][Slow]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 137,
+            "name": "Baharr-2Phase-L-TurnoverStrike[BackAtk02][HandChange][Fast]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 138,
+            "name": "Baharr-2Phase-L-UpperBash[HeavyAtk02][HandChange][ForST][Guard][Evade][Invincible]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 139,
+            "name": "Baharr-2Phase-L-WhirlBlow[ReactionAtk][Guard]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 140,
+            "name": "Baharr-2Phase-L-PoundingAtk_01Set[RLRL][HandChange][Guard][Evade][Invincible]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 141,
+            "name": "Baharr-2Phase-L-PoundingAtk_02Set[RLRL][HandChange][Guard][Evade][Invincible]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 142,
+            "name": "Baharr-2Phase-L-PoundingAtk_03Set[RLRL][HandChange][Guard][Evade][Invincible]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 201,
+            "name": "Baharr-1Phase-Scene_Invade[Scene_Invade]-Dungeon",
+            "parentId": 303520
+        },
+        {
+            "id": 202,
+            "name": "Baharr-3Phase-AttachArdensToWeapon[UltraAtk01_Start]-Dungeon",
+            "parentId": 303520
+        },
+        {
+            "id": 301,
+            "name": "Baharr-2Phase-R-SpawnSubNpc[Wait_R]-Dungeon",
+            "parentId": 303520
+        },
+        {
+            "id": 302,
+            "name": "Baharr-2Phase-L-SpawnSubNpc[Wait_L]-Dungeon",
+            "parentId": 303520
+        },
+        {
+            "id": 303,
+            "name": "Baharr-3Phase-R-SpawnSubNpc[Wait_R]-Dungeon",
+            "parentId": 303520
+        },
+        {
+            "id": 304,
+            "name": "Baharr-3Phase-L-SpawnSubNpc[Wait_L]-Dungeon",
+            "parentId": 303520
+        },
+        {
+            "id": 305,
+            "name": "Baharr-2Phase-R-VolcanoEruption[ReadyAction_R][Guard][Evade][Invincible][Shield][KeepPeace]-Dungeon",
+            "parentId": 303520
+        },
+        {
+            "id": 306,
+            "name": "Baharr-2Phase-L-VolcanoEruption[ReadyAction_L][Guard][Evade][Invincible][Shield][KeepPeace]-Dungeon",
+            "parentId": 303520
+        },
+        {
+            "id": 307,
+            "name": "Baharr-2Phase-R-RisingArdens-ArdensStrike[LongAtk01][Guard][Evade][Invincible][Shield]-Dungeon",
+            "parentId": 303520
+        },
+        {
+            "id": 308,
+            "name": "Baharr-2Phase-R-RisingArdens-UltimateAtk01[LongAtk01End]-Dungeon",
+            "parentId": 303520
+        },
+        {
+            "id": 309,
+            "name": "Baharr-2Phase-R-RisingArdens-UltimateAtk02[LongAtk01End]-Dungeon",
+            "parentId": 303520
+        },
+        {
+            "id": 310,
+            "name": "Baharr-2Phase-R-RisingArdens-UltimateAtk[03LongAtk01End]-Dungeon",
+            "parentId": 303520
+        },
+        {
+            "id": 311,
+            "name": "Baharr-2Phase-R-WeaponSwap[ChangeWeaponRtoL]-Dungeon",
+            "parentId": 303520
+        },
+        {
+            "id": 312,
+            "name": "Baharr-2Phase-L-WeaponSwap[ChangeWeaponLtoR]-Dungeon",
+            "parentId": 303520
+        },
+        {
+            "id": 313,
+            "name": "Baharr-2Phase-VolcanoEruption[Projectile][Guard]-Dungeon",
+            "parentId": 303520
+        },
+        {
+            "id": 401,
+            "name": "Baharr-2Phase-PoundingAtk_RightHitBox[Projectile][Guard][Evade][Invincible]-Normal",
+            "parentId": 303520
+        },
+        {
+            "id": 402,
+            "name": "Baharr-2Phase-PoundingAtk_LeftHitBox[Projectile][Guard][Evade][Invincible]-Normal",
+            "parentId": 303520
+        }
+    ],
+    "2001": [
+        {
+            "id": 203,
+            "name": "Baharr-1Phase-R-PhaseChange[ReadyAction_R]-Dungeon",
+            "parentId": 303520
+        }
+    ],
+    "2010": [
+        {
+            "id": 202,
+            "name": "Baharr-TNPC-RageController-InvokeRageBaharr[Wait]-Dungeon",
+            "parentId": 680000
+        }
+    ],
+    "2020": [
+        {
+            "id": 202,
+            "name": "Baharr-TNPC-WrathCancelController-CancelDebuff[Wait]-Dungeon",
+            "parentId": 680000
+        }
+    ],
+    "2030": [
+        {
+            "id": 301,
+            "name": "Baharr-TNPC-ArdensStrike-Strike[Wait][Evade][Invincible][Shield]-Dungeon",
+            "parentId": 680000
+        },
+        {
+            "id": 302,
+            "name": "Baharr-TNPC-ArdensStrike[Projectile][Guard][Evade][Invincible]-Dungeon",
+            "parentId": 680000
+        }
+    ],
+    "2050": [
+        {
+            "id": 101,
+            "name": "none",
+            "parentId": 600960
+        }
+    ],
+    "2051": [
+        {
+            "id": 101,
+            "name": "하이엘프 남 중갑5 창기사 창기사_1콤보_combo1_노말",
+            "parentId": 530510
+        },
+        {
+            "id": 103,
+            "name": "하이엘프 남 중갑5 창기사 창기사_방패방어_Defence_노말",
+            "parentId": 530510
+        },
+        {
+            "id": 104,
+            "name": "하이엘프 남 중갑5 창기사 창기사_강력한돌진_screwThrough_노말",
+            "parentId": 530510
+        },
+        {
+            "id": 105,
+            "name": "하이엘프 남 중갑5 창기사 창기사_방패치기_ShieldStrike_노말",
+            "parentId": 530510
+        },
+        {
+            "id": 106,
+            "name": "하이엘프 남 중갑5 창기사 창기사_반격찌르기_Riposte_노말",
+            "parentId": 530510
+        },
+        {
+            "id": 107,
+            "name": "하이엘프 남 중갑5 창기사 창기사_도발의포효_Roar_노말",
+            "parentId": 530510
+        },
+        {
+            "id": 110,
+            "name": "하이엘프 남 중갑5 창기사 창기사_2콤보_combo2_노말",
+            "parentId": 530510
+        },
+        {
+            "id": 111,
+            "name": "하이엘프 남 중갑5 창기사 창기사_3콤보_combo3_노말",
+            "parentId": 530510
+        },
+        {
+            "id": 112,
+            "name": "하이엘프 남 중갑5 창기사 창기사 전투의 의지",
+            "parentId": 530510
+        },
+        {
+            "id": 113,
+            "name": "하이엘프 남 중갑5 창기사 창기사 신뢰의 오라 III",
+            "parentId": 530510
+        },
+        {
+            "id": 114,
+            "name": "하이엘프 남 중갑5 창기사 창기사 분노 유발",
+            "parentId": 530510
+        },
+        {
+            "id": 301,
+            "name": "무적걸기",
+            "parentId": 530510
+        }
+    ],
+    "2053": [
+        {
+            "id": 101,
+            "name": "사제_징벌의 빛_Holy Shot_Cast 01",
+            "parentId": 527020
+        },
+        {
+            "id": 107,
+            "name": "사제_각성_Recovery_Cast 01",
+            "parentId": 527020
+        },
+        {
+            "id": 201,
+            "name": "사제_조금 차는 힐",
+            "parentId": 527020
+        },
+        {
+            "id": 202,
+            "name": "사제_많이 차는 힐",
+            "parentId": 527020
+        },
+        {
+            "id": 203,
+            "name": "사제_방어 버프",
+            "parentId": 527020
+        },
+        {
+            "id": 204,
+            "name": "사제_축복 해제",
+            "parentId": 527020
+        },
+        {
+            "id": 301,
+            "name": "무적 걸기",
+            "parentId": 527020
+        }
+    ],
+    "2060": [
+        {
+            "id": 101,
+            "name": "사제 소환 마석",
+            "parentId": 600962
+        }
+    ],
+    "2100": [
+        {
+            "id": 401,
+            "name": "Baharr-TNPC-MagmaArea-MagmaArea_Lv1[Wait]-Dungeon",
+            "parentId": 680000
+        },
+        {
+            "id": 402,
+            "name": "Baharr-TNPC-MagmaArea-MagmaArea_Lv2[Wait]-Dungeon",
+            "parentId": 680000
+        },
+        {
+            "id": 403,
+            "name": "Baharr-TNPC-MagmaArea-MagmaArea_Lv3[Wait]-Dungeon",
+            "parentId": 680000
+        },
+        {
+            "id": 404,
+            "name": "Baharr-TNPC-MagmaArea-MagmaArea_Lv4[Wait]-Dungeon",
+            "parentId": 680000
+        },
+        {
+            "id": 405,
+            "name": "Baharr-TNPC-MagmaArea-MagmaArea_Lv5[Wait]-Dungeon",
+            "parentId": 680000
+        },
+        {
+            "id": 406,
+            "name": "Baharr-TNPC-MagmaArea-MagmaArea_Lv6[Wait]-Dungeon",
+            "parentId": 680000
+        }
+    ],
+    "2201": [
+        {
+            "id": 114,
+            "name": "Baharr-MNPC-FlameWorrior-Explosion[aggrochange][Guard][Evade][Invincible]-Normal",
+            "parentId": 301510
+        },
+        {
+            "id": 205,
+            "name": "Baharr-MNPC-FlameWorrior-Standing[Wait]-Dungeon",
+            "parentId": 301510
+        }
+    ],
+    "2400": [
+        {
+            "id": 303,
+            "name": "Baharr-TNPC-VolcanoEruption-FX[Wait]-Dungeon",
+            "parentId": 680000
+        }
+    ],
+    "2401": [
+        {
+            "id": 304,
+            "name": "Baharr-TNPC-VolcanoEruption-Flooding[Wait][Guard][Evade][Invincible][Shield]-Dungeon",
+            "parentId": 680000
+        }
+    ],
+    "2500": [
+        {
+            "id": 201,
+            "name": "Baharr-TNPC-3Phase-Standing[Wait]-Dungeon",
+            "parentId": 680000
+        },
+        {
+            "id": 305,
+            "name": "Baharr-TNPC-3Phase-BaharrEyebeam[Wait][Guard][Evade][Invincible][Shield]-Dungeon",
+            "parentId": 680000
+        },
+        {
+            "id": 999,
+            "name": "Baharr-TNPC-3Phase-BaharrEyebeamTEST[Wait]",
+            "parentId": 680000
+        }
+    ],
+    "3000": [
+        {
+            "id": 201,
+            "name": "Baharr-SubNpc-Standing[Wait][1000ms]-Dungeon",
+            "parentId": 303530
+        },
+        {
+            "id": 301,
+            "name": "Baharr-SubNpc-ArdensStrike[LeftHand]-Dungeon",
+            "parentId": 303530
+        },
+        {
+            "id": 302,
+            "name": "Baharr-SubNpc-PhaseChange[PhaseChange]-Dungeon",
+            "parentId": 303530
+        },
+        {
+            "id": 303,
+            "name": "Baharr-SubNpc-RightWeapon[RightWeapon]-Dungeon",
+            "parentId": 303530
+        },
+        {
+            "id": 304,
+            "name": "Baharr-SubNpc-LeftWeapon[LeftWeapon]-Dungeon",
+            "parentId": 303530
+        }
+    ],
+    "3001": [
+        {
+            "id": 202,
+            "name": "Baharr-SubNpc-PhaseChange[PhaseChange]-Dungeon",
+            "parentId": 303530
+        }
+    ],
+    "6001": [
+        {
+            "id": 201,
+            "name": "Baharr-MNPC-Gate-Opening_1st[Opening]-Dungeon",
+            "parentId": 600000
+        },
+        {
+            "id": 202,
+            "name": "Baharr-MNPC-Gate-Opening_2nd[Opening]-Dungeon",
+            "parentId": 600000
+        },
+        {
+            "id": 203,
+            "name": "Baharr-MNPC-Gate-Opening_3rd[Opening]-Dungeon",
+            "parentId": 600000
+        },
+        {
+            "id": 204,
+            "name": "Baharr-MNPC-Gate-Opening_4th[Opening]-Dungeon",
+            "parentId": 600000
+        }
+    ],
+    "6008": [
+        {
+            "id": 205,
+            "name": "Baharr-MNPC-Gate-Closing_4th[Closing]-Dungeon",
+            "parentId": 600000
+        }
+    ],
+    "6009": [
+        {
+            "id": 206,
+            "name": "Baharr-MNPC-Gate-Opening_4th[Opening]-Dungeon",
+            "parentId": 600000
+        }
+    ],
+    "7001": [
+        {
+            "id": 101,
+            "name": "사제버프",
+            "parentId": 600960
+        }
+    ],
+    "7002": [
+        {
+            "id": 101,
+            "name": "정령버프",
+            "parentId": 600960
+        }
+    ]
+}

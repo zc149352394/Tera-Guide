@@ -1,0 +1,1685 @@
+{
+    "46601": [
+        {
+            "id": 1101,
+            "name": "애벌레 왕_큐브를 회전시키다 스테프를 크게 휘두르기_atk01_노말",
+            "parentId": 302180
+        },
+        {
+            "id": 1102,
+            "name": "애벌레 왕_큐브를 왼손에 내리고 스테프로 좌우 휘두르기_atk02_노말",
+            "parentId": 302180
+        },
+        {
+            "id": 1103,
+            "name": "애벌레 왕_큐브가 회전하는 채로 스테프를 휘두르며 120도 좌측 턴_roundAtk01_노말",
+            "parentId": 302180
+        },
+        {
+            "id": 1104,
+            "name": "애벌레 왕_큐브가 회전하는 채로 스테프를 휘두르며 120도 우측 턴_roundAtk02_노말",
+            "parentId": 302180
+        },
+        {
+            "id": 1105,
+            "name": "애벌레 왕_제자리 점프해서 온몸으로 바닥을 내려치기_reactionAtk01_노말",
+            "parentId": 302180
+        },
+        {
+            "id": 1106,
+            "name": "애벌레 왕_손으로 코막으며 꽁무니에서 독방귀 흩뿌리기_backAtk_노말",
+            "parentId": 302180
+        },
+        {
+            "id": 1107,
+            "name": "애벌레 왕_몸을 돌려 뒤로 후퇴하고 되돌아서기_backmove_노말",
+            "parentId": 302180
+        },
+        {
+            "id": 1108,
+            "name": "애벌레 왕_스테프를 띄워서 큐브조각 회전으로 허공에 마법진을 그려 독액의 비를 뿌리기_command_노말",
+            "parentId": 302180
+        },
+        {
+            "id": 1109,
+            "name": "애벌레 왕_스테프를 한바퀴 돌려서 바닦을 찍기_heavyAtk01_노말",
+            "parentId": 302180
+        },
+        {
+            "id": 1110,
+            "name": "애벌레 왕_앞 발 부분을 쳐들었다가 바닥에 몸을 굴리면서 1바퀴 회전하여 공격하기_heavyAtk01_노말",
+            "parentId": 302180
+        },
+        {
+            "id": 1111,
+            "name": "애벌레 왕_전갈처럼 꼬리를 들어 점액질 독탄을 발사하기_longAtk01_Stat+LongAtk01_Loop+longAtk00_Loop_Shot1+longAtk01_End_노말",
+            "parentId": 302180
+        },
+        {
+            "id": 1112,
+            "name": "애벌레 왕_전갈꼬리 독탄 공격 발사체_노말",
+            "parentId": 302180
+        },
+        {
+            "id": 1113,
+            "name": "애벌레 왕_전갈처럼 꼬리를 들어 주변 8곳을 연속적으로 공격하기_longAtk01_Stat+LongAtk01_Loop+longAtk00_Loop_Shot2+longAtk01_End_노말",
+            "parentId": 302180
+        },
+        {
+            "id": 1114,
+            "name": "애벌레 왕_지팡이 큐브를 돌려 다중 포획_longAtk02_Start+longAtk02_Loop+longAtk02_End_노말",
+            "parentId": 302180
+        },
+        {
+            "id": 1115,
+            "name": "애벌레 왕_숨을 들이쉬었다가 녹색의 독액을 내뿜기_longAtk03_노말",
+            "parentId": 302180
+        },
+        {
+            "id": 1116,
+            "name": "애벌레 왕_몸을 흔들다 뱀처럼 갈지자로 지나가며 공격하기_longMove_Start+longMove_End_노말",
+            "parentId": 302180
+        },
+        {
+            "id": 1117,
+            "name": "애벌레 왕_하늘에 독구름 발사체",
+            "parentId": 302180
+        },
+        {
+            "id": 1118,
+            "name": "애벌레 왕_주변 포 발사_이동 2번_주변 포 발사_추적 포 발사",
+            "parentId": 302180
+        },
+        {
+            "id": 1119,
+            "name": "애벌레 왕_주변 포 발사_이동 2번_주변 포 발사",
+            "parentId": 302180
+        },
+        {
+            "id": 1120,
+            "name": "애벌레 왕_주변 포 발사_추적 포 발사",
+            "parentId": 302180
+        },
+        {
+            "id": 1121,
+            "name": "애벌레 왕_맵전체 누킹(북쪽 방향 안전 지대)",
+            "parentId": 302180
+        },
+        {
+            "id": 1122,
+            "name": "애벌레 왕_맵전체 누킹(동쪽 방향 안전 지대)",
+            "parentId": 302180
+        },
+        {
+            "id": 1123,
+            "name": "애벌레 왕_맵전체 누킹(남쪽 방향 안전 지대)",
+            "parentId": 302180
+        },
+        {
+            "id": 1124,
+            "name": "애벌레 왕_맵전체 누킹(서쪽 방향 안전 지대)",
+            "parentId": 302180
+        },
+        {
+            "id": 1125,
+            "name": "애벌레 왕_독 액 뱉기(보스)_노말",
+            "parentId": 302180
+        },
+        {
+            "id": 1126,
+            "name": "애벌레 왕_독 액 뱉기(부하)_노말",
+            "parentId": 302180
+        },
+        {
+            "id": 1127,
+            "name": "애벌레 왕_공중에 매달린 후 리액션 공격_노말",
+            "parentId": 302180
+        },
+        {
+            "id": 1128,
+            "name": "애벌레 왕_공중에 매달린 후 부하 스폰 후 리액션 공격_노말",
+            "parentId": 302180
+        },
+        {
+            "id": 1129,
+            "name": "애벌레 왕_공중에 한참동안 매달린 후 리액션 공격(좁은 범위)_노말",
+            "parentId": 302180
+        },
+        {
+            "id": 1151,
+            "name": "애벌레 왕_몸통 전체를 웅크렸다 앞으로 전진하기_activeMove_Start+activeMove_Loop+activeMove_End_노말",
+            "parentId": 302180
+        },
+        {
+            "id": 1201,
+            "name": "애벌레 왕_머리를 덮고 몸을 말아 부하 몬스터 소환하기_modealram_Strat+modealram_Loop+modealram_End_노말",
+            "parentId": 302180
+        },
+        {
+            "id": 1202,
+            "name": "애벌레 왕_상체를 숙이고 뒤를 돌아보면서 스폰된 지점으로 이동하기_runAway_노말",
+            "parentId": 302180
+        },
+        {
+            "id": 1301,
+            "name": "애벌레 왕_피격 기회용 대기",
+            "parentId": 302180
+        },
+        {
+            "id": 1302,
+            "name": "애벌레 왕_리액션유발을 위한 대기_이펙트",
+            "parentId": 302180
+        },
+        {
+            "id": 1303,
+            "name": "애벌레 왕_리액션",
+            "parentId": 302180
+        },
+        {
+            "id": 1304,
+            "name": "애벌레 왕_엄청긴리액션",
+            "parentId": 302180
+        },
+        {
+            "id": 1305,
+            "name": "애벌레 왕_1초대기",
+            "parentId": 302180
+        },
+        {
+            "id": 1306,
+            "name": "(인던전용)애벌레 왕_1인 누킹_longAtk01_start+loop+loopshot01+end_공용",
+            "parentId": 302180
+        },
+        {
+            "id": 1307,
+            "name": "(인던전용)애벌레 왕_2인 누킹_longAtk01_start+loop+loopshot01+end_공용",
+            "parentId": 302180
+        },
+        {
+            "id": 1308,
+            "name": "(인던전용)애벌레 왕_3인 누킹_longAtk01_start+loop+loopshot01+end_공용",
+            "parentId": 302180
+        },
+        {
+            "id": 1309,
+            "name": "(인던전용)애벌레 왕_4인 누킹_longAtk01_start+loop+loopshot01+end_공용",
+            "parentId": 302180
+        },
+        {
+            "id": 1310,
+            "name": "(인던전용)애벌레 왕_5인 누킹_longAtk01_start+loop+loopshot01+end_공용",
+            "parentId": 302180
+        },
+        {
+            "id": 1311,
+            "name": "(인던전용)애벌레 왕_홀짝판단_홀근폭_UltraAtkJump_start+loop+end_공용",
+            "parentId": 302180
+        },
+        {
+            "id": 1312,
+            "name": "(인던전용)애벌레 왕_홀짝판단_홀원폭_UltraAtkJump_start+loop+end_공용",
+            "parentId": 302180
+        },
+        {
+            "id": 1313,
+            "name": "(인던전용)애벌레 왕_홀짝판단_짝근폭_UltraAtkJump_start+loop+end_공용",
+            "parentId": 302180
+        },
+        {
+            "id": 1314,
+            "name": "(인던전용)애벌레 왕_홀짝판단_짝원폭_UltraAtkJump_start+loop+end_공용",
+            "parentId": 302180
+        },
+        {
+            "id": 1315,
+            "name": "(인던전용)애벌레 왕_50%미만_홀짝판단_홀근폭_UltraAtkJump_start+loop+end_공용",
+            "parentId": 302180
+        },
+        {
+            "id": 1316,
+            "name": "(인던전용)애벌레 왕_50%미만_홀짝판단_홀원폭_UltraAtkJump_start+loop+end_공용",
+            "parentId": 302180
+        },
+        {
+            "id": 1317,
+            "name": "(인던전용)애벌레 왕_50%미만_홀짝판단_짝근폭_UltraAtkJump_start+loop+end_공용",
+            "parentId": 302180
+        },
+        {
+            "id": 1318,
+            "name": "(인던전용)애벌레 왕_50%미만_홀짝판단_짝원폭_UltraAtkJump_start+loop+end_공용",
+            "parentId": 302180
+        },
+        {
+            "id": 1319,
+            "name": "(인던전용)애벌레 왕_50%미만_1인 누킹_longAtk01_start+loop+loopshot01+end_공용",
+            "parentId": 302180
+        },
+        {
+            "id": 1320,
+            "name": "(인던전용)애벌레 왕_50%미만_2인 누킹_longAtk01_start+loop+loopshot01+end_공용",
+            "parentId": 302180
+        },
+        {
+            "id": 1321,
+            "name": "(인던전용)애벌레 왕_50%미만_3인 누킹_longAtk01_start+loop+loopshot01+end_공용",
+            "parentId": 302180
+        },
+        {
+            "id": 1322,
+            "name": "(인던전용)애벌레 왕_50%미만_4인 누킹_longAtk01_start+loop+loopshot01+end_공용",
+            "parentId": 302180
+        },
+        {
+            "id": 1323,
+            "name": "(인던전용)애벌레 왕_50%미만_5인 누킹_longAtk01_start+loop+loopshot01+end_공용",
+            "parentId": 302180
+        },
+        {
+            "id": 2101,
+            "name": "애벌레 왕_큐브를 회전시키다 스테프를 크게 휘두르기_atk01_분노",
+            "parentId": 302180
+        },
+        {
+            "id": 2102,
+            "name": "애벌레 왕_큐브를 왼손에 내리고 스테프로 좌우 휘두르기_atk02_분노",
+            "parentId": 302180
+        },
+        {
+            "id": 2103,
+            "name": "애벌레 왕_큐브가 회전하는 채로 스테프를 휘두르며 120도 좌측 턴_roundAtk01_분노",
+            "parentId": 302180
+        },
+        {
+            "id": 2104,
+            "name": "애벌레 왕_큐브가 회전하는 채로 스테프를 휘두르며 120도 우측 턴_roundAtk02_분노",
+            "parentId": 302180
+        },
+        {
+            "id": 2105,
+            "name": "애벌레 왕_제자리 점프해서 온몸으로 바닥을 내려치기_reactionAtk01_분노",
+            "parentId": 302180
+        },
+        {
+            "id": 2106,
+            "name": "애벌레 왕_손으로 코막으며 꽁무니에서 독방귀 흩뿌리기_backAtk_분노",
+            "parentId": 302180
+        },
+        {
+            "id": 2107,
+            "name": "애벌레 왕_몸을 돌려 뒤로 후퇴하고 되돌아서기_backmove_분노",
+            "parentId": 302180
+        },
+        {
+            "id": 2108,
+            "name": "애벌레 왕_스테프를 띄워서 큐브조각 회전으로 허공에 마법진을 그려 독액의 비를 뿌리기_command_분노",
+            "parentId": 302180
+        },
+        {
+            "id": 2109,
+            "name": "애벌레 왕_스테프를 한바퀴 돌려서 바닦을 찍기_heavyAtk01_분노",
+            "parentId": 302180
+        },
+        {
+            "id": 2110,
+            "name": "애벌레 왕_앞 발 부분을 쳐들었다가 바닥에 몸을 굴리면서 1바퀴 회전하여 공격하기_heavyAtk01_분노",
+            "parentId": 302180
+        },
+        {
+            "id": 2111,
+            "name": "애벌레 왕_전갈처럼 꼬리를 들어 점액질 독탄을 발사하기_longAtk01_Stat+LongAtk01_Loop+longAtk00_Loop_Shot1+longAtk01_End_분노",
+            "parentId": 302180
+        },
+        {
+            "id": 2112,
+            "name": "애벌레 왕_전갈꼬리 독탄 공격 발사체_분노",
+            "parentId": 302180
+        },
+        {
+            "id": 2113,
+            "name": "애벌레 왕_전갈처럼 꼬리를 들어 주변 8곳을 연속적으로 공격하기_longAtk01_Stat+LongAtk01_Loop+longAtk00_Loop_Shot2+longAtk01_End_분노",
+            "parentId": 302180
+        },
+        {
+            "id": 2114,
+            "name": "애벌레 왕_지팡이 큐브를 돌려 다중 포획_longAtk02_Start+longAtk02_Loop+longAtk02_End_노말",
+            "parentId": 302180
+        },
+        {
+            "id": 2115,
+            "name": "애벌레 왕_숨을 들이쉬었다가 녹색의 독액을 내뿜기_longAtk03_분노",
+            "parentId": 302180
+        },
+        {
+            "id": 2116,
+            "name": "애벌레 왕_몸을 흔들다 뱀처럼 갈지자로 지나가며 공격하기_longMove_Start+longMove_End_분노",
+            "parentId": 302180
+        },
+        {
+            "id": 2117,
+            "name": "애벌레 왕_하늘에 독구름 발사체",
+            "parentId": 302180
+        },
+        {
+            "id": 2118,
+            "name": "애벌레 왕_주변 포 발사_이동 2번_주변 포 발사_추적 포 발사",
+            "parentId": 302180
+        },
+        {
+            "id": 2119,
+            "name": "애벌레 왕_주변 포 발사_이동 2번_주변 포 발사",
+            "parentId": 302180
+        },
+        {
+            "id": 2120,
+            "name": "애벌레 왕_주변 포 발사_추적 포 발사",
+            "parentId": 302180
+        },
+        {
+            "id": 2121,
+            "name": "애벌레 왕_맵전체 누킹(북쪽 방향 안전 지대)",
+            "parentId": 302180
+        },
+        {
+            "id": 2122,
+            "name": "애벌레 왕_맵전체 누킹(동쪽 방향 안전 지대)",
+            "parentId": 302180
+        },
+        {
+            "id": 2123,
+            "name": "애벌레 왕_맵전체 누킹(남쪽 방향 안전 지대)",
+            "parentId": 302180
+        },
+        {
+            "id": 2124,
+            "name": "애벌레 왕_맵전체 누킹(서쪽 방향 안전 지대)",
+            "parentId": 302180
+        },
+        {
+            "id": 2125,
+            "name": "애벌레 왕_독 액 뱉기(보스)_분노",
+            "parentId": 302180
+        },
+        {
+            "id": 2126,
+            "name": "애벌레 왕_독 액 뱉기(부하)_분노",
+            "parentId": 302180
+        },
+        {
+            "id": 2127,
+            "name": "애벌레 왕_공중에 매달린 후 리액션 공격_분노",
+            "parentId": 302180
+        },
+        {
+            "id": 2128,
+            "name": "애벌레 왕_공중에 매달린 후 부하 스폰 후 리액션 공격_분노",
+            "parentId": 302180
+        },
+        {
+            "id": 2129,
+            "name": "애벌레 왕_공중에 한참동안 매달린 후 리액션 공격(좁은 범위)_분노",
+            "parentId": 302180
+        },
+        {
+            "id": 2151,
+            "name": "애벌레 왕_몸통 전체를 웅크렸다 앞으로 전진하기_activeMove_Start+activeMove_Loop+activeMove_End_분노",
+            "parentId": 302180
+        },
+        {
+            "id": 2201,
+            "name": "애벌레 왕_머리를 덮고 몸을 말아 부하 몬스터 소환하기_modealram_Strat+modealram_Loop+modealram_End_분노",
+            "parentId": 302180
+        },
+        {
+            "id": 2202,
+            "name": "애벌레 왕_상체를 숙이고 뒤를 돌아보면서 스폰된 지점으로 이동하기_runAway_분노",
+            "parentId": 302180
+        }
+    ],
+    "46602": [
+        {
+            "id": 1101,
+            "name": "분노의 사념체_3연속 구슬 공격_atk01_노말",
+            "parentId": 303360
+        },
+        {
+            "id": 1102,
+            "name": "분노의 사념체_회전하면서 떠오르고 큰 해골 마크를 보여주는 광역 공포 공격_reactionAtk01_노말",
+            "parentId": 303360
+        },
+        {
+            "id": 1103,
+            "name": "분노의 사념체_앞쪽을 지그 재그 휘젓는 구슬 공격_atk02_노말",
+            "parentId": 303360
+        },
+        {
+            "id": 1104,
+            "name": "분노의 사념체_앞쪽으로 숨을 불어내서 영혼 주입_atk03_노말",
+            "parentId": 303360
+        },
+        {
+            "id": 1105,
+            "name": "분노의 사념체_구슬 회전 공격_heavyAtk01_노말",
+            "parentId": 303360
+        },
+        {
+            "id": 1106,
+            "name": "분노의 사념체_박수치고 구슬로 공격하는 구슬 박수 공격_heavyAtk02_노말",
+            "parentId": 303360
+        },
+        {
+            "id": 1107,
+            "name": "분노의 사념체_박수치고 구슬로 공격하는 구슬 박수 공격 후 후방 박수_heavyAtk02_comboAtk01_노말",
+            "parentId": 303360
+        },
+        {
+            "id": 1108,
+            "name": "분노의 사념체_바닥을 양손바닥으로 쳐서 피웅덩이 만드는 dot 공격_reactionAtk03_노말",
+            "parentId": 303360
+        },
+        {
+            "id": 1109,
+            "name": "분노의 사념체_드러누워 배를 까고 소용돌이를 내뿜어 주변을 공격하는 영혼의 소용돌이_reactionAtk04_Start+reactionAtk04_Loop+reactionAtk04_End_노말",
+            "parentId": 303360
+        },
+        {
+            "id": 1110,
+            "name": "분노의 사념체_무브 어택_moveAtk_노말",
+            "parentId": 303360
+        },
+        {
+            "id": 1111,
+            "name": "분노의 사념체_좌회전 공격_roundAtk01_노말",
+            "parentId": 303360
+        },
+        {
+            "id": 1112,
+            "name": "분노의 사념체_우회전 공격_roundAtk02_노말",
+            "parentId": 303360
+        },
+        {
+            "id": 1113,
+            "name": "분노의 사념체_혼령 개방 갈빗대를 붙잡고 힘을모아 양쪽으로 열면서 혼령 브레스 쏘아내기_longAtk01_Start+longAtk01_Loop+longAtk01_Shot+longAtk01_End_노말",
+            "parentId": 303360
+        },
+        {
+            "id": 1114,
+            "name": "분노의 사념체_인스턴스샷_longAtk02_노말",
+            "parentId": 303360
+        },
+        {
+            "id": 1115,
+            "name": "분노의 사념체_영혼의 손이 발사해서 대상을 당겨오는 포획_longAtk03_노말",
+            "parentId": 303360
+        },
+        {
+            "id": 1116,
+            "name": "분노의 사념체_영혼을 여러 개의 손이 발사해서 대상을 당겨오는다중 포획_longAtk04_노말",
+            "parentId": 303360
+        },
+        {
+            "id": 1117,
+            "name": "분노의사념체_기모으고 장판깔며 이동_moveAtk01_노말",
+            "parentId": 303360
+        },
+        {
+            "id": 1118,
+            "name": "분노의사념체_기모으고 장판깔며 이동 장판_moveAtk01_노말",
+            "parentId": 303360
+        },
+        {
+            "id": 1119,
+            "name": "분노의 사념체_원거리 1인 누킹(발사동작)_longAtk_Start+longAtk_Loop+longAtk_End_노말",
+            "parentId": 303360
+        },
+        {
+            "id": 1120,
+            "name": "분노의 사념체_원거리 1인 누킹(발사체)_노말",
+            "parentId": 303360
+        },
+        {
+            "id": 1121,
+            "name": "분노의 사념체 분산데미지 큰번개_roll_dice_노말",
+            "parentId": 303360
+        },
+        {
+            "id": 1122,
+            "name": "분노의 사념체 분산데미지 큰번개(발사체)_노말",
+            "parentId": 303360
+        },
+        {
+            "id": 1123,
+            "name": "분노의 사념체_내면드러내며돌기_reactionatk01_노말",
+            "parentId": 303360
+        },
+        {
+            "id": 1150,
+            "name": "분노의 사념체_중앙으로 이동_activemove",
+            "parentId": 303360
+        },
+        {
+            "id": 1151,
+            "name": "분노의 사념체_중앙으로 빠르게 이동_activemove",
+            "parentId": 303360
+        },
+        {
+            "id": 1152,
+            "name": "분노의 사념체_중앙으로 순간이동_longMove02_start+longMove02_loop+wait_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1201,
+            "name": "분노의 사념체_그로기_groggy",
+            "parentId": 303360
+        },
+        {
+            "id": 1202,
+            "name": "분노의 사념체_액티브 무브_activeMove_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1203,
+            "name": "분노의 사념체_도망_runAway_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1204,
+            "name": "분노의 사념체_모드 알람_modeAlarm_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1205,
+            "name": "분노의 사념체_롱 무브_longMove_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1206,
+            "name": "분노의 사념체_롱 무브2 순간이동_longMove02_start+longMove02_loop+longMove02_end_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1207,
+            "name": "분노의 사념체_주사위1_roll_dice_1_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1208,
+            "name": "분노의 사념체_주사위2_roll_dice_2_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1209,
+            "name": "분노의 사념체_주사위3_roll_dice_3_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1210,
+            "name": "분노의 사념체_주사위4_roll_dice_4_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1211,
+            "name": "분노의 사념체_주사위5_roll_dice_5_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1212,
+            "name": "분노의 사념체_주사위6_roll_dice_6_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1213,
+            "name": "분노의 사념체_팔을 들고 주사위 굴리며 오브젝트 소환_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1214,
+            "name": "분노의 사념체_누워서 내면을 드러내며 주사위 굴리기_reactionatk04_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1215,
+            "name": "분노의 사념체_손으로 지면 내리치며 광역스턴_reactionatk03_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1216,
+            "name": "(인던전용_사용)분노의 사념체_주사위 굴리기_reactionatk03_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1217,
+            "name": "(인던전용)분노의 사념체_원거리 5인 누킹(발사동작)_longAtk_Start+longAtk_Loop+longAtk_End_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1218,
+            "name": "(인던전용)분노의 사념체_원거리 5인 누킹(발사체)_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1219,
+            "name": "(인던전용)분노의 사념체_원거리 1인 누킹(발사동작)_5인분산_longAtk_Start+longAtk_Loop+longAtk_End_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1220,
+            "name": "(인던전용)분노의 사념체_원거리 1인 누킹(발사체)_5인분산_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1221,
+            "name": "(인던전용)분노의 사념체_박수치고 구슬로 공격하는 구슬 박수 공격_heavyAtk02_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1222,
+            "name": "(인던전용)분노의 사념체_박수치고 구슬로 공격하는 구슬 박수 공격 후 후방 박수_heavyAtk02_comboAtk01_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1223,
+            "name": "(인던전용)분노의 사념체_원거리 5인 누킹 장판(발사동작)_longAtk_Start+longAtk_Loop+longAtk_End_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1224,
+            "name": "(인던전용)분노의 사념체_원거리 5인 누킹 장판(발사체)_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1301,
+            "name": "분노의 사념체_5%헉헉_reactionStart,Loop,End_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1302,
+            "name": "분노의 사념체_비웃기_laughQ_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1303,
+            "name": "(인던전용)분노의 사념체_주사위 소환 모션_summonedsoul_start+end_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1304,
+            "name": "분노의 사념체_전멸기_UltraAtk01start+loop+end_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1305,
+            "name": "(인던전용)분노의 사념체_보너스 주사위npc 굴리기_reactionatk03_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1306,
+            "name": "(인던전용_사용)분노의 사념체_주사위 굴리기_heavyAtk04_Start+Loop+End+laugh_Q_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1307,
+            "name": "(인던전용)분노의 사념체_무적 그로기_reaction_start+loop+end_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1308,
+            "name": "(인던전용)분노의 사념체_승리보상 그로기_reaction02_start+loop+end_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1309,
+            "name": "(인던전용)분노의 사념체_빨-원-근_데칼_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1310,
+            "name": "(인던전용)분노의 사념체_녹-원-근_데칼_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1311,
+            "name": "(인던전용)분노의 사념체_빨-원-근_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1312,
+            "name": "(인던전용)분노의 사념체_녹-근-원_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1313,
+            "name": "(인던전용)분노의 사념체_빨-근-원_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1314,
+            "name": "(인던전용)분노의 사념체_녹-원-근_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1315,
+            "name": "(인던전용)분노의 사념체_보너스 주사위 소환 모션4456_reactionatk03+laugh_Q_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1316,
+            "name": "(인던전용)분노의 사념체_보너스 주사위 소환 모션4556_reactionatk03+laugh_Q_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 1317,
+            "name": "(인던전용)분노의 사념체_보너스 주사위 소환 모션4566_reactionatk03+laugh_Q_공용",
+            "parentId": 303360
+        },
+        {
+            "id": 2101,
+            "name": "분노의 사념체_3연속 구슬 공격_atk01_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2102,
+            "name": "분노의 사념체_회전하면서 떠오르고 큰 해골 마크를 보여주는 광역 공포 공격_reactionAtk01_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2103,
+            "name": "분노의 사념체_앞쪽을 지그 재그 휘젓는 구슬 공격_atk02_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2104,
+            "name": "분노의 사념체_앞쪽으로 숨을 불어내서 영혼 주입_atk03_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2105,
+            "name": "분노의 사념체_구슬 회전 공격_heavyAtk01_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2106,
+            "name": "분노의 사념체_박수치고 구슬로 공격하는 구슬 박수 공격_heavyAtk02_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2107,
+            "name": "분노의 사념체_박수치고 구슬로 공격하는 구슬 박수 공격 후 후방 박수_heavyAtk02_comboAtk01_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2108,
+            "name": "분노의 사념체_바닥을 양손바닥으로 쳐서 피웅덩이 만드는 dot 공격_reactionAtk03_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2109,
+            "name": "분노의 사념체_드러누워 배를 까고 소용돌이를 내뿜어 주변을 공격하는 영혼의 소용돌이_reactionAtk04_Start+reactionAtk04_Loop+reactionAtk04_End_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2110,
+            "name": "분노의 사념체_무브 어택_moveAtk_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2111,
+            "name": "분노의 사념체_좌회전 공격_roundAtk01_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2112,
+            "name": "분노의 사념체_우회전 공격_roundAtk02_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2113,
+            "name": "분노의 사념체_혼령 개방 갈빗대를 붙잡고 힘을모아 양쪽으로 열면서 혼령 브레스 쏘아내기_longAtk01_Start+longAtk01_Loop+longAtk01_Shot+longAtk01_End_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2114,
+            "name": "분노의 사념체_인스턴스샷_longAtk02_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2115,
+            "name": "분노의 사념체_영혼의 손이 발사해서 대상을 당겨오는 포획_longAtk03_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2116,
+            "name": "분노의 사념체_영혼을 여러 개의 손이 발사해서 대상을 당겨오는다중 포획_longAtk04_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2117,
+            "name": "분노의사념체_기모으고 장판깔며 이동_moveAtk01_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2118,
+            "name": "분노의사념체_기모으고 장판깔며 이동 장판_moveAtk01_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2119,
+            "name": "분노의 사념체_원거리 1인 누킹(발사동작)_longAtk_Start+longAtk_Loop+longAtk_End_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2120,
+            "name": "분노의 사념체_원거리 1인 누킹(발사체)_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2121,
+            "name": "분노의 사념체 분산데미지 큰번개_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2122,
+            "name": "분노의 사념체 분산데미지 큰번개(발사체)_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2123,
+            "name": "분노의 사념체_내면드러내며돌기_reactionatk01_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2201,
+            "name": "분노의 사념체_그로기_groggy_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2202,
+            "name": "분노의 사념체_액티브 무브_activeMove_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2203,
+            "name": "분노의 사념체_도망_runAway_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2204,
+            "name": "분노의 사념체_모드 알람_modeAlarm_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2205,
+            "name": "분노의 사념체_롱 무브_longMove_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2206,
+            "name": "분노의 사념체_롱 무브2 순간이동_longMove02_start+longMove02_loop+longMove02_end_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2207,
+            "name": "분노의 사념체_주사위1_roll_dice_1_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2208,
+            "name": "분노의 사념체_주사위2_roll_dice_2_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2209,
+            "name": "분노의 사념체_주사위3_roll_dice_3_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2210,
+            "name": "분노의 사념체_주사위4_roll_dice_4_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2211,
+            "name": "분노의 사념체_주사위5_roll_dice_5_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2212,
+            "name": "분노의 사념체_주사위6_roll_dice_6_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2213,
+            "name": "분노의 사념체_팔을 들고 주사위 굴리며 오브젝트 소환_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2214,
+            "name": "분노의 사념체_누워서 내면을 드러내며 주사위 굴리기_reactionatk04_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2215,
+            "name": "분노의 사념체_손으로 지면 내리치며 광역스턴_reactionatk03_분노",
+            "parentId": 303360
+        },
+        {
+            "id": 2216,
+            "name": "(인던전용)분노의 사념체_주사위 굴리기_reactionatk03_분노",
+            "parentId": 303360
+        }
+    ],
+    "46611": [
+        {
+            "id": 1101,
+            "name": "코인 테리토리 소환",
+            "parentId": null
+        }
+    ],
+    "46612": [
+        {
+            "id": 1366,
+            "name": "보너스 투명npc_안전지대_wait",
+            "parentId": 611410
+        }
+    ],
+    "46614": [
+        {
+            "id": 1301,
+            "name": "어그로 전파용 투명npc_wait",
+            "parentId": null
+        }
+    ],
+    "46677": [
+        {
+            "id": 1304,
+            "name": "보너스주사위NPC_4번_Roll_4_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1307,
+            "name": "보너스주사위NPC_wait_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1309,
+            "name": "보너스주사위NPC_디스폰대기20초_wait_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1310,
+            "name": "보너스주사위NPC_wait_자살",
+            "parentId": 630120
+        },
+        {
+            "id": 1314,
+            "name": "보너스주사위NPC_4번_Roll_4_loop_노말",
+            "parentId": 630120
+        }
+    ],
+    "46678": [
+        {
+            "id": 1305,
+            "name": "보너스주사위NPC_5번_Roll_5_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1307,
+            "name": "보너스주사위NPC_wait_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1309,
+            "name": "보너스주사위NPC_디스폰대기20초_wait_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1310,
+            "name": "보너스주사위NPC_wait_자살",
+            "parentId": 630120
+        },
+        {
+            "id": 1315,
+            "name": "보너스주사위NPC_5번_Roll_5_loop_노말",
+            "parentId": 630120
+        }
+    ],
+    "46679": [
+        {
+            "id": 1306,
+            "name": "보너스주사위NPC_6번_Roll_6_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1307,
+            "name": "보너스주사위NPC_wait_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1309,
+            "name": "보너스주사위NPC_디스폰대기20초_wait_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1310,
+            "name": "보너스주사위NPC_wait_자살",
+            "parentId": 630120
+        },
+        {
+            "id": 1316,
+            "name": "보너스주사위NPC_6번_Roll_6_loop_노말",
+            "parentId": 630120
+        }
+    ],
+    "46681": [
+        {
+            "id": 1301,
+            "name": "1번셀_위치체크용abnormality_wait",
+            "parentId": null
+        }
+    ],
+    "46682": [
+        {
+            "id": 1301,
+            "name": "2번셀_위치체크용abnormality_wait",
+            "parentId": null
+        }
+    ],
+    "46683": [
+        {
+            "id": 1301,
+            "name": "3번셀_위치체크용abnormality_wait",
+            "parentId": null
+        }
+    ],
+    "46684": [
+        {
+            "id": 1301,
+            "name": "4번셀_위치체크용abnormality_wait",
+            "parentId": null
+        }
+    ],
+    "46685": [
+        {
+            "id": 1301,
+            "name": "5번셀_위치체크용abnormality_wait",
+            "parentId": null
+        }
+    ],
+    "46686": [
+        {
+            "id": 1301,
+            "name": "6번셀_위치체크용abnormality_wait",
+            "parentId": null
+        }
+    ],
+    "46688": [
+        {
+            "id": 1301,
+            "name": "PC주사위(빨)_1번_Roll_1_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1302,
+            "name": "PC주사위(빨)_2번_Roll_2_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1303,
+            "name": "PC주사위(빨)_3번_Roll_3_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1304,
+            "name": "PC주사위(빨)_4번_Roll_4_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1305,
+            "name": "PC주사위(빨)_5번_Roll_5_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1306,
+            "name": "PC주사위(빨)_6번_Roll_6_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1307,
+            "name": "PC주사위(빨)_wait_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1308,
+            "name": "PC주사위(빨)_주사위폭발_wait_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1309,
+            "name": "PC주사위(빨)_디스폰대기20초_wait_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1311,
+            "name": "PC주사위(빨)_1번_Roll_1_loop_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1312,
+            "name": "PC주사위(빨)_2번_Roll_2_loop_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1313,
+            "name": "PC주사위(빨)_3번_Roll_3_loop_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1314,
+            "name": "PC주사위(빨)_4번_Roll_4_loop_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1315,
+            "name": "PC주사위(빨)_5번_Roll_5_loop_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1316,
+            "name": "PC주사위(빨)_6번_Roll_6_loop_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1321,
+            "name": "PC주사위(빨)_1번_폭발_Roll_1_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1322,
+            "name": "PC주사위(빨)_2번_폭발_Roll_2_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1323,
+            "name": "PC주사위(빨)_3번_폭발_Roll_3_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1324,
+            "name": "PC주사위(빨)_4번_폭발_Roll_4_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1325,
+            "name": "PC주사위(빨)_5번_폭발_Roll_5_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1326,
+            "name": "PC주사위(빨)_6번_폭발_Roll_6_노말",
+            "parentId": 630120
+        }
+    ],
+    "46689": [
+        {
+            "id": 1301,
+            "name": "PC주사위(노)_1번_Roll_1_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1302,
+            "name": "PC주사위(노)_2번_Roll_2_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1303,
+            "name": "PC주사위(노)_3번_Roll_3_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1304,
+            "name": "PC주사위(노)_4번_Roll_4_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1305,
+            "name": "PC주사위(노)_5번_Roll_5_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1306,
+            "name": "PC주사위(노)_6번_Roll_6_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1307,
+            "name": "PC주사위(노)_wait_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1308,
+            "name": "PC주사위(노)_주사위폭발_wait_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1309,
+            "name": "PC주사위(노)_디스폰대기20초_wait_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1311,
+            "name": "PC주사위(노)_1번_Roll_1_loop_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1312,
+            "name": "PC주사위(노)_2번_Roll_2_loop_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1313,
+            "name": "PC주사위(노)_3번_Roll_3_loop_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1314,
+            "name": "PC주사위(노)_4번_Roll_4_loop_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1315,
+            "name": "PC주사위(노)_5번_Roll_5_loop_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1316,
+            "name": "PC주사위(노)_6번_Roll_6_loop_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1321,
+            "name": "PC주사위(노)_1번_폭발_Roll_1_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1322,
+            "name": "PC주사위(노)_2번_폭발_Roll_2_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1323,
+            "name": "PC주사위(노)_3번_폭발_Roll_3_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1324,
+            "name": "PC주사위(노)_4번_폭발_Roll_4_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1325,
+            "name": "PC주사위(노)_5번_폭발_Roll_5_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1326,
+            "name": "PC주사위(노)_6번_폭발_Roll_6_노말",
+            "parentId": 630120
+        }
+    ],
+    "46690": [
+        {
+            "id": 1301,
+            "name": "PC주사위(파)_1번_Roll_1_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1302,
+            "name": "PC주사위(파)_2번_Roll_2_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1303,
+            "name": "PC주사위(파)_3번_Roll_3_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1304,
+            "name": "PC주사위(파)_4번_Roll_4_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1305,
+            "name": "PC주사위(파)_5번_Roll_5_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1306,
+            "name": "PC주사위(파)_6번_Roll_6_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1307,
+            "name": "PC주사위(파)_wait_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1308,
+            "name": "PC주사위(파)_주사위폭발_wait_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1309,
+            "name": "PC주사위(파)_디스폰대기20초_wait_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1311,
+            "name": "PC주사위(파)_1번_Roll_1_loop_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1312,
+            "name": "PC주사위(파)_2번_Roll_2_loop_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1313,
+            "name": "PC주사위(파)_3번_Roll_3_loop_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1314,
+            "name": "PC주사위(파)_4번_Roll_4_loop_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1315,
+            "name": "PC주사위(파)_5번_Roll_5_loop_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1316,
+            "name": "PC주사위(파)_6번_Roll_6_loop_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1321,
+            "name": "PC주사위(파)_1번_폭발_Roll_1_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1322,
+            "name": "PC주사위(파)_2번_폭발_Roll_2_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1323,
+            "name": "PC주사위(파)_3번_폭발_Roll_3_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1324,
+            "name": "PC주사위(파)_4번_폭발_Roll_4_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1325,
+            "name": "PC주사위(파)_5번_폭발_Roll_5_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1326,
+            "name": "PC주사위(파)_6번_폭발_Roll_6_노말",
+            "parentId": 630120
+        }
+    ],
+    "46692": [
+        {
+            "id": 1301,
+            "name": "왕주사위_1번_Roll_1_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1302,
+            "name": "왕주사위_2번_Roll_2_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1303,
+            "name": "왕주사위_3번_Roll_3_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1304,
+            "name": "왕주사위_4번_Roll_4_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1305,
+            "name": "왕주사위_5번_Roll_5_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1306,
+            "name": "왕주사위_6번_Roll_6_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1307,
+            "name": "왕주사위_wait_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1309,
+            "name": "왕주사위_디스폰대기20초_wait_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1311,
+            "name": "왕주사위_1번_Roll_1_loop_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1312,
+            "name": "왕주사위_2번_Roll_2_loop_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1313,
+            "name": "왕주사위_3번_Roll_3_loop_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1314,
+            "name": "왕주사위_4번_Roll_4_loop_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1315,
+            "name": "왕주사위_5번_Roll_5_loop_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1316,
+            "name": "왕주사위_6번_Roll_6_loop_노말",
+            "parentId": 630120
+        }
+    ],
+    "46694": [
+        {
+            "id": 1101,
+            "name": "떨어지는 동전(2Phase)_동전 떨어지기_atk01_노말",
+            "parentId": 611560
+        },
+        {
+            "id": 1102,
+            "name": "떨어지는 동전(2Phase)_동전 떨어지기(이펙트 추가)_atk01_노말",
+            "parentId": null
+        },
+        {
+            "id": 1103,
+            "name": "떨어지는 동전(2Phase)_떨어지기 전 대기",
+            "parentId": null
+        },
+        {
+            "id": 1104,
+            "name": "떨어지는 동전(2Phase)_자살_atk01_노말",
+            "parentId": 611560
+        },
+        {
+            "id": 1301,
+            "name": "떨어지는 동전(2Phase)_2초 대기 후 동전 떨어지기(파란데칼)_atk01",
+            "parentId": 611560
+        },
+        {
+            "id": 1302,
+            "name": "떨어지는 동전(2Phase)_2초 대기 후 동전 떨어지기(빨간데칼)_atk01",
+            "parentId": 611560
+        }
+    ],
+    "46695": [
+        {
+            "id": 1101,
+            "name": "떨어지는 동전_동전 떨어지기_atk01_노말",
+            "parentId": 611560
+        },
+        {
+            "id": 1102,
+            "name": "떨어지는 동전_동전 떨어지기(이펙트 추가)_atk01_노말",
+            "parentId": null
+        },
+        {
+            "id": 1103,
+            "name": "떨어지는 동전_떨어지기 전 대기",
+            "parentId": null
+        },
+        {
+            "id": 1104,
+            "name": "떨어지는 동전_자살_atk01_노말",
+            "parentId": 611560
+        },
+        {
+            "id": 1301,
+            "name": "떨어지는 동전_2초 대기 후 동전 떨어지기(파란데칼)_atk01",
+            "parentId": 611560
+        },
+        {
+            "id": 1302,
+            "name": "떨어지는 동전_2초 대기 후 동전 떨어지기(빨간데칼)_atk01",
+            "parentId": 611560
+        }
+    ],
+    "46696": [
+        {
+            "id": 1101,
+            "name": "떨어지는 동전_동전 떨어지기_atk01_노말",
+            "parentId": 611560
+        },
+        {
+            "id": 1102,
+            "name": "떨어지는 동전_동전 떨어지기(이펙트 추가)_atk01_노말",
+            "parentId": null
+        },
+        {
+            "id": 1103,
+            "name": "떨어지는 동전_떨어지기 전 대기",
+            "parentId": null
+        },
+        {
+            "id": 1104,
+            "name": "떨어지는 동전_자살_atk01_노말",
+            "parentId": 611560
+        },
+        {
+            "id": 1301,
+            "name": "떨어지는 동전_2초 대기 후 동전 떨어지기(파란데칼)_atk01",
+            "parentId": 611560
+        },
+        {
+            "id": 1302,
+            "name": "떨어지는 동전_2초 대기 후 동전 떨어지기(빨간데칼)_atk01",
+            "parentId": 611560
+        }
+    ],
+    "46697": [
+        {
+            "id": 1304,
+            "name": "보너스주사위NPC_4번_Roll_4_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1307,
+            "name": "보너스주사위NPC_wait_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1309,
+            "name": "보너스주사위NPC_디스폰대기20초_wait_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1310,
+            "name": "보너스주사위NPC_wait_자살",
+            "parentId": 630120
+        },
+        {
+            "id": 1314,
+            "name": "보너스주사위NPC_4번_Roll_4_loop_노말",
+            "parentId": 630120
+        }
+    ],
+    "46698": [
+        {
+            "id": 1305,
+            "name": "보너스주사위NPC_5번_Roll_5_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1307,
+            "name": "보너스주사위NPC_wait_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1309,
+            "name": "보너스주사위NPC_디스폰대기20초_wait_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1310,
+            "name": "보너스주사위NPC_wait_자살",
+            "parentId": 630120
+        },
+        {
+            "id": 1315,
+            "name": "보너스주사위NPC_5번_Roll_5_loop_노말",
+            "parentId": 630120
+        }
+    ],
+    "46699": [
+        {
+            "id": 1306,
+            "name": "보너스주사위NPC_6번_Roll_6_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1307,
+            "name": "보너스주사위NPC_wait_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1309,
+            "name": "보너스주사위NPC_디스폰대기20초_wait_노말",
+            "parentId": 630120
+        },
+        {
+            "id": 1310,
+            "name": "보너스주사위NPC_wait_자살",
+            "parentId": 630120
+        },
+        {
+            "id": 1316,
+            "name": "보너스주사위NPC_6번_Roll_6_loop_노말",
+            "parentId": 630120
+        }
+    ]
+}

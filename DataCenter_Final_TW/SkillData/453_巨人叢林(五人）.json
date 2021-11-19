@@ -1,0 +1,1022 @@
+{
+    "10": [
+        {
+            "id": 101,
+            "name": "오칸미니미_기본공격_atk01_노말",
+            "parentId": 300710
+        },
+        {
+            "id": 103,
+            "name": "오칸미니미_2번휘두르기_atk02_노말",
+            "parentId": 300710
+        },
+        {
+            "id": 104,
+            "name": "오칸미니미_돌진공격_atk03_노말",
+            "parentId": 300710
+        },
+        {
+            "id": 205,
+            "name": "오칸미니미_명령수신_commandreceive_노말",
+            "parentId": 300710
+        },
+        {
+            "id": 206,
+            "name": "오칸미니미_좌회피_jumpevasion01_노말",
+            "parentId": 300710
+        },
+        {
+            "id": 207,
+            "name": "오칸미니미_좌걸음_sidewalk01_노말",
+            "parentId": 300710
+        },
+        {
+            "id": 208,
+            "name": "오칸미니미_우걸음_sidewalk02_노말",
+            "parentId": 300710
+        },
+        {
+            "id": 209,
+            "name": "오칸미니미_우회피_jumpevasion02_노말",
+            "parentId": 300710
+        }
+    ],
+    "20": [
+        {
+            "id": 101,
+            "name": "오칸_Atk01_Low(오른손 기본 공격_노멀 텐션)",
+            "parentId": 300650
+        },
+        {
+            "id": 102,
+            "name": "오칸_Atk02_Low(더블 래리어트 회전 공격_노멀 텐션)",
+            "parentId": 300650
+        },
+        {
+            "id": 103,
+            "name": "오칸_Atk03_Low(백점프 후 동료 공격력 버프_노멀 텐션)",
+            "parentId": 300650
+        },
+        {
+            "id": 104,
+            "name": "오칸_Atk04_Low(폭탄 투척 공격_노멀 텐션)",
+            "parentId": 300650
+        },
+        {
+            "id": 105,
+            "name": "오칸_Atk05_Low(오른손 길게 전진 공격_노멀 텐션)",
+            "parentId": 300650
+        },
+        {
+            "id": 106,
+            "name": "오칸_돌진공격_UltraAtk01_노멀",
+            "parentId": 300650
+        },
+        {
+            "id": 201,
+            "name": "오칸 50% 헉헉",
+            "parentId": 300650
+        },
+        {
+            "id": 202,
+            "name": "오칸 20% 헉헉",
+            "parentId": 300650
+        },
+        {
+            "id": 203,
+            "name": "오칸 사전동작_노말",
+            "parentId": 300650
+        },
+        {
+            "id": 204,
+            "name": "오칸 어그로 체인지",
+            "parentId": 300650
+        },
+        {
+            "id": 207,
+            "name": "오칸 왼쪽_게걸음",
+            "parentId": 300650
+        },
+        {
+            "id": 208,
+            "name": "오칸 오른쪽 게걸음",
+            "parentId": 300650
+        },
+        {
+            "id": 209,
+            "name": "오칸 jumpevasion01_Low(좌측 점프 회피_노멀 텐션)",
+            "parentId": 300650
+        },
+        {
+            "id": 210,
+            "name": "오칸 jumpevasion02_Low(우측 점프 회피_노멀 텐션)",
+            "parentId": 300650
+        },
+        {
+            "id": 301,
+            "name": "(인던전용)오칸_자폭_ATk03",
+            "parentId": 300650
+        },
+        {
+            "id": 302,
+            "name": "(인던전용)오칸_이상상태디버프공격(공포)_Angry_Q",
+            "parentId": 300650
+        }
+    ],
+    "30": [
+        {
+            "id": 101,
+            "name": "오칸_Atk01_Low(오른손 기본 공격_노멀 텐션)",
+            "parentId": 300650
+        },
+        {
+            "id": 102,
+            "name": "오칸_Atk02_Low(더블 래리어트 회전 공격_노멀 텐션)",
+            "parentId": 300650
+        },
+        {
+            "id": 103,
+            "name": "오칸_Atk03_Low(백점프 후 동료 공격력 버프_노멀 텐션)",
+            "parentId": 300650
+        },
+        {
+            "id": 104,
+            "name": "오칸_Atk04_Low(폭탄 투척 공격_노멀 텐션)",
+            "parentId": 300650
+        },
+        {
+            "id": 105,
+            "name": "오칸_Atk05_Low(오른손 길게 전진 공격_노멀 텐션)",
+            "parentId": 300650
+        },
+        {
+            "id": 106,
+            "name": "오칸_돌진공격_UltraAtk01_노멀",
+            "parentId": 300650
+        },
+        {
+            "id": 201,
+            "name": "오칸 50% 헉헉",
+            "parentId": 300650
+        },
+        {
+            "id": 202,
+            "name": "오칸 20% 헉헉",
+            "parentId": 300650
+        },
+        {
+            "id": 203,
+            "name": "오칸 사전동작_노말",
+            "parentId": 300650
+        },
+        {
+            "id": 204,
+            "name": "오칸 어그로 체인지",
+            "parentId": 300650
+        },
+        {
+            "id": 207,
+            "name": "오칸 왼쪽_게걸음",
+            "parentId": 300650
+        },
+        {
+            "id": 208,
+            "name": "오칸 오른쪽 게걸음",
+            "parentId": 300650
+        },
+        {
+            "id": 209,
+            "name": "오칸 jumpevasion01_Low(좌측 점프 회피_노멀 텐션)",
+            "parentId": 300650
+        },
+        {
+            "id": 210,
+            "name": "오칸 jumpevasion02_Low(우측 점프 회피_노멀 텐션)",
+            "parentId": 300650
+        },
+        {
+            "id": 301,
+            "name": "(인던전용)오칸_자폭_ATk03",
+            "parentId": 300650
+        },
+        {
+            "id": 302,
+            "name": "(인던전용)오칸_이상상태디버프공격(공포)_Angry_Q",
+            "parentId": 300650
+        }
+    ],
+    "40": [
+        {
+            "id": 101,
+            "name": "오칸_Atk01_Low(오른손 기본 공격_노멀 텐션)",
+            "parentId": 300650
+        },
+        {
+            "id": 102,
+            "name": "오칸_Atk02_Low(더블 래리어트 회전 공격_노멀 텐션)",
+            "parentId": 300650
+        },
+        {
+            "id": 103,
+            "name": "오칸_Atk03_Low(백점프 후 동료 공격력 버프_노멀 텐션)",
+            "parentId": 300650
+        },
+        {
+            "id": 104,
+            "name": "오칸_Atk04_Low(폭탄 투척 공격_노멀 텐션)",
+            "parentId": 300650
+        },
+        {
+            "id": 105,
+            "name": "오칸_Atk05_Low(오른손 길게 전진 공격_노멀 텐션)",
+            "parentId": 300650
+        },
+        {
+            "id": 106,
+            "name": "오칸_돌진공격_UltraAtk01_노멀",
+            "parentId": 300650
+        },
+        {
+            "id": 201,
+            "name": "오칸 50% 헉헉",
+            "parentId": 300650
+        },
+        {
+            "id": 202,
+            "name": "오칸 20% 헉헉",
+            "parentId": 300650
+        },
+        {
+            "id": 203,
+            "name": "오칸 사전동작_노말",
+            "parentId": 300650
+        },
+        {
+            "id": 204,
+            "name": "오칸 어그로 체인지",
+            "parentId": 300650
+        },
+        {
+            "id": 207,
+            "name": "오칸 왼쪽_게걸음",
+            "parentId": 300650
+        },
+        {
+            "id": 208,
+            "name": "오칸 오른쪽 게걸음",
+            "parentId": 300650
+        },
+        {
+            "id": 209,
+            "name": "오칸 jumpevasion01_Low(좌측 점프 회피_노멀 텐션)",
+            "parentId": 300650
+        },
+        {
+            "id": 210,
+            "name": "오칸 jumpevasion02_Low(우측 점프 회피_노멀 텐션)",
+            "parentId": 300650
+        },
+        {
+            "id": 301,
+            "name": "(인던전용)오칸_자폭_ATk03",
+            "parentId": 300650
+        },
+        {
+            "id": 302,
+            "name": "(인던전용)오칸_이상상태디버프공격(공포)_Angry_Q",
+            "parentId": 300650
+        }
+    ],
+    "50": [
+        {
+            "id": 101,
+            "name": "두꺼비_주변독가스공격_Atk01_노멀",
+            "parentId": 301550
+        },
+        {
+            "id": 201,
+            "name": "두꺼비_기본소셜_Idle",
+            "parentId": 301550
+        }
+    ],
+    "100": [
+        {
+            "id": 101,
+            "name": "드릴창_공격(NPC디버프/PC데미지)_Atk01_공용",
+            "parentId": 611440
+        },
+        {
+            "id": 102,
+            "name": "드릴창_사전동작_ReadyAction_공용",
+            "parentId": 611440
+        }
+    ],
+    "400": [
+        {
+            "id": 101,
+            "name": "오크통 폭발",
+            "parentId": 600010
+        }
+    ],
+    "500": [
+        {
+            "id": 101,
+            "name": "대포_공격_FireAtk01_공용",
+            "parentId": 710000
+        },
+        {
+            "id": 102,
+            "name": "대포_할로윈_공격_FireAtk01",
+            "parentId": 710000
+        },
+        {
+            "id": 103,
+            "name": "대포_화염공격_FireAtk01_공용",
+            "parentId": 710000
+        },
+        {
+            "id": 104,
+            "name": "대포_냉기공격_FireAtk01_공용",
+            "parentId": 710000
+        },
+        {
+            "id": 201,
+            "name": "대포_하차",
+            "parentId": 710000
+        }
+    ],
+    "501": [
+        {
+            "id": 101,
+            "name": "대포_공격_FireAtk01_공용",
+            "parentId": 710000
+        },
+        {
+            "id": 102,
+            "name": "대포_할로윈_공격_FireAtk01",
+            "parentId": 710000
+        },
+        {
+            "id": 103,
+            "name": "대포_화염공격_FireAtk01_공용",
+            "parentId": 710000
+        },
+        {
+            "id": 104,
+            "name": "대포_냉기공격_FireAtk01_공용",
+            "parentId": 710000
+        },
+        {
+            "id": 201,
+            "name": "대포_하차",
+            "parentId": 710000
+        }
+    ],
+    "999": [
+        {
+            "id": 101,
+            "name": "돌거인_오른손 휘둘러 쳐내기_atk01_1_노말",
+            "parentId": 302170
+        },
+        {
+            "id": 102,
+            "name": "돌거인_왼손 휘둘러 쳐내기_atk01_2_노말",
+            "parentId": 302170
+        },
+        {
+            "id": 103,
+            "name": "돌거인_왼쪽 회전하며 손을 휘두르고 바위 조각을 뿜기_roundAtk01_노말",
+            "parentId": 302170
+        },
+        {
+            "id": 104,
+            "name": "돌거인_오른쪽 회전하며 손을 휘두르고 바위 조각을 뿜기_roundAtk02_노말",
+            "parentId": 302170
+        },
+        {
+            "id": 105,
+            "name": "돌거인_몸의 돌을 모아 만든 바위를 내려찍기_reactionAtk_노말",
+            "parentId": 302170
+        },
+        {
+            "id": 106,
+            "name": "돌거인_오른손을 내밀어 팔의 바위를 회전시키며 화염을 모으다가 화염광선을 발사_longAtk_Start+longAtk_Loop+longAtk_End_노말",
+            "parentId": 302170
+        },
+        {
+            "id": 107,
+            "name": "돌거인_돌채찍 공격_longAtk02_노말",
+            "parentId": 302170
+        },
+        {
+            "id": 108,
+            "name": "돌거인_몸의 돌을 주먹에 모아 만든 커다란 돌 주먹 내려 치기_heavyAtk01_Start+heavyAtk01_Loop+heavyAtk01_End_노말(루프 적용 필요)",
+            "parentId": 302170
+        },
+        {
+            "id": 109,
+            "name": "돌거인_몸을 회전하여 땅을 파고 사라졌다가 땅속에서 회전하며 튀어올라 내려찍기_longMove_Start+longMove_End_노말",
+            "parentId": 302170
+        },
+        {
+            "id": 110,
+            "name": "돌거인_뒷걸음질 치며 물러나기_backMove_노말.",
+            "parentId": 302170
+        },
+        {
+            "id": 111,
+            "name": "돌거인_오른발 들어 찍고 왼발 들어 찍기_atk02_1+atk02_2_노말",
+            "parentId": 302170
+        },
+        {
+            "id": 112,
+            "name": "돌거인_왼발 크게 들어올려 내려찍기_atk02_2_노말",
+            "parentId": 302170
+        },
+        {
+            "id": 113,
+            "name": "돌거인_앞으로 굴러서 공격_moveAtk01_Start+moveAtk01_Loop+moveAtk01_End_노말",
+            "parentId": 302170
+        },
+        {
+            "id": 114,
+            "name": "돌거인_오른손을 내밀어 팔의 바위를 회전시키면서 화염을 모아 화염탄 발사_longAtk01_Stat+longAtk01_End_노말 ",
+            "parentId": 302170
+        },
+        {
+            "id": 115,
+            "name": "돌거인_화염공격 발사체_노말",
+            "parentId": 302170
+        },
+        {
+            "id": 116,
+            "name": "돌거인_보호막-보호막시전",
+            "parentId": 0
+        },
+        {
+            "id": 117,
+            "name": "돌거인_보호막-전멸기[막기불가][회피불가][무적불가]",
+            "parentId": 302170
+        },
+        {
+            "id": 118,
+            "name": "돌거인-대기-[wait]공용",
+            "parentId": 302170
+        },
+        {
+            "id": 119,
+            "name": "돌거인_몸을 회전하여 땅을 파고 사라졌다가 땅속에서 회전하며 튀어올라 내려찍기_longMove_Start+longMove_End_노말",
+            "parentId": 302170
+        },
+        {
+            "id": 120,
+            "name": "돌거인_필살기",
+            "parentId": 302170
+        },
+        {
+            "id": 151,
+            "name": "돌거인_몸의 돌덩이들은 주변에 펼치며 푸른 불길을 내뿜고 돌덩이와 푸른 불길을 망토처럼 걸치고 걸어간다_activeMove_Start+activeMove_Loop+activeMove_End",
+            "parentId": 302170
+        },
+        {
+            "id": 201,
+            "name": "돌거인_본노모드 알람_modealram_노말",
+            "parentId": 302170
+        },
+        {
+            "id": 202,
+            "name": "돌거인_탈진 상태에서 뒤로 도망감_runAway_노말",
+            "parentId": 302170
+        }
+    ],
+    "2000": [
+        {
+            "id": 101,
+            "name": "블러드 골렘_기본 공격_Atk01",
+            "parentId": 300350
+        },
+        {
+            "id": 102,
+            "name": "블러드 골렘_긴 이동 공격_MoveAtk01",
+            "parentId": 300350
+        },
+        {
+            "id": 103,
+            "name": "블러드 골렘_오른 손 내려 찍기_Atk02",
+            "parentId": 300350
+        },
+        {
+            "id": 104,
+            "name": "블러드 골렘_양 손 번갈아 내려 찍기_Atk03",
+            "parentId": 300350
+        },
+        {
+            "id": 105,
+            "name": "블러드 골렘_좌 회전 공격_RoundAtk01",
+            "parentId": 300350
+        },
+        {
+            "id": 106,
+            "name": "블러드 골렘_우 회전 공격_RoundAtk02",
+            "parentId": 300350
+        },
+        {
+            "id": 107,
+            "name": "블러드 골렘_죽은척 하다 회전 공격_RoundAtk03",
+            "parentId": 300350
+        },
+        {
+            "id": 108,
+            "name": "블러드 골렘_연속 회전 공격_HeavyAtk01",
+            "parentId": 300350
+        },
+        {
+            "id": 109,
+            "name": "블러드 골렘_3연속 발사체 공격_HeavyAtk02",
+            "parentId": 300350
+        },
+        {
+            "id": 110,
+            "name": "블러드 골렘_짧은 이동 공격_MoveAtk02",
+            "parentId": 300350
+        },
+        {
+            "id": 111,
+            "name": "블러드 골렘_연속 내려 찍기_ReactionAtk01",
+            "parentId": 300350
+        },
+        {
+            "id": 112,
+            "name": "블러드 골렘_발사체 공격_ReactionAtk02",
+            "parentId": 300350
+        },
+        {
+            "id": 113,
+            "name": "블러드 골렘_강하게 내려 찍기_ReactionAtk03",
+            "parentId": 300350
+        },
+        {
+            "id": 114,
+            "name": "블러드 골렘_빠른 발사체 공격_LongRangeAtk01",
+            "parentId": 300350
+        },
+        {
+            "id": 115,
+            "name": "블러드 골렘_폭풍회오리_UltraAtk_노멀",
+            "parentId": 300350
+        },
+        {
+            "id": 116,
+            "name": "블러드 골렘_(인던전용)범위지속성DOT마법_발사동작_노멀",
+            "parentId": 300350
+        },
+        {
+            "id": 117,
+            "name": "블러드 골렘_(인던전용)범위지속성 DOT마법_발사체_노멀",
+            "parentId": 300350
+        },
+        {
+            "id": 118,
+            "name": "블러드 골렘_(인던전용)3연속 대포 공격_HeavyAtk02_노멀",
+            "parentId": 300350
+        },
+        {
+            "id": 150,
+            "name": "블러드 골렘_이동 공격_RunAttackSkill",
+            "parentId": 300350
+        },
+        {
+            "id": 151,
+            "name": "블러드 골렘_(인던전용)액티브무브_RunAttackSkill_노멀",
+            "parentId": 300350
+        },
+        {
+            "id": 201,
+            "name": "블러드 골렘_그로기_Groggy",
+            "parentId": 300350
+        },
+        {
+            "id": 203,
+            "name": "블러드 골렘_스킬 사전 동작",
+            "parentId": 300350
+        },
+        {
+            "id": 204,
+            "name": "블러드 골렘_어그로 체인지_Aggrochange",
+            "parentId": 300350
+        },
+        {
+            "id": 209,
+            "name": "블러드 골렘_3초 대기_Wait",
+            "parentId": 300350
+        },
+        {
+            "id": 210,
+            "name": "블러드 골렘_5초 대기_Wait",
+            "parentId": 300350
+        },
+        {
+            "id": 211,
+            "name": "블러드 골렘_스폰 동작_SpawnAniForBattleStart",
+            "parentId": 300350
+        },
+        {
+            "id": 212,
+            "name": "블러드 골렘_백무브_ BackMove",
+            "parentId": 300350
+        },
+        {
+            "id": 301,
+            "name": "블러드골렘_자연회복_Wait_노멀/분노공용",
+            "parentId": 300350
+        },
+        {
+            "id": 302,
+            "name": "(검은틈전용)블러드 골렘_광폭화이상상태버프걸기_aggrochange_공용",
+            "parentId": 300350
+        }
+    ],
+    "3000": [
+        {
+            "id": 101,
+            "name": "스톤헤드_돌진기본공격_Atk01_노말",
+            "parentId": 300540
+        },
+        {
+            "id": 103,
+            "name": "스톤헤드_모래바람공격_Atk02_노말",
+            "parentId": 300540
+        },
+        {
+            "id": 201,
+            "name": "스톤헤드_헉헉50%",
+            "parentId": 300540
+        },
+        {
+            "id": 202,
+            "name": "스톤헤드_헉헉20%",
+            "parentId": 300540
+        },
+        {
+            "id": 205,
+            "name": "스톤헤드_명령수신_CommandReceive_노말",
+            "parentId": 300540
+        },
+        {
+            "id": 207,
+            "name": "스톤헤드_좌걸음_SideWalk01_노말",
+            "parentId": 300540
+        },
+        {
+            "id": 208,
+            "name": "스톤헤드_우걸음_SideWalk02_노말",
+            "parentId": 300540
+        }
+    ],
+    "4501": [
+        {
+            "id": 101,
+            "name": "카이아의 검 남병사_1콤보_combo1_노말",
+            "parentId": 523020
+        },
+        {
+            "id": 103,
+            "name": "카이아의 검 남병사_회전베기_SwordDance_노말",
+            "parentId": 523020
+        },
+        {
+            "id": 104,
+            "name": "카이아의 검 남병사_후려치기_HandySlash_노말",
+            "parentId": 523020
+        },
+        {
+            "id": 110,
+            "name": "카이아의 검 남병사_2콤보_combo2_노말",
+            "parentId": 523020
+        },
+        {
+            "id": 111,
+            "name": "카이아의 검 남병사_3콤보_combo3_노말",
+            "parentId": 523020
+        },
+        {
+            "id": 112,
+            "name": "카이아의 검 남병사_4콤보_combo4_노말",
+            "parentId": 523020
+        },
+        {
+            "id": 206,
+            "name": "카이아의 검 남병사_회피_tumbling_노말",
+            "parentId": 523020
+        },
+        {
+            "id": 0,
+            "name": "카이아의 검 남병사_폭탄 던지기",
+            "parentId": 523020
+        }
+    ],
+    "4502": [
+        {
+            "id": 101,
+            "name": "군인하사관(바라카 남자 광전사)_기본 공격1_Combo1_노말",
+            "parentId": 510720
+        },
+        {
+            "id": 103,
+            "name": "군인하사관(바라카 남자 광전사)_무기방어_Axe Defence_노말",
+            "parentId": 510720
+        },
+        {
+            "id": 104,
+            "name": "군인하사관(바라카 남자 광전사)_대지치기_Weapon Bash_노말",
+            "parentId": 510720
+        },
+        {
+            "id": 105,
+            "name": "군인하사관(바라카 남자 광전사)_모아치기_Blast Slash_노말",
+            "parentId": 510720
+        },
+        {
+            "id": 106,
+            "name": "군인하사관(바라카 남자 광전사)_광폭화_Berserk_노말",
+            "parentId": 510720
+        },
+        {
+            "id": 110,
+            "name": "군인하사관(바라카 남자 광전사)_기본 공격2_Combo2_노말",
+            "parentId": 510720
+        },
+        {
+            "id": 111,
+            "name": "군인하사관(바라카 남자 광전사)_기본 공격3_Combo3_노말",
+            "parentId": 510720
+        },
+        {
+            "id": 112,
+            "name": "군인하사관(바라카 남자 광전사)_기본 공격4_Combo4_노말",
+            "parentId": 510720
+        },
+        {
+            "id": 0,
+            "name": "군인하사관(바라카 남자 광전사)_폭탄 던지기",
+            "parentId": 510720
+        }
+    ],
+    "4503": [
+        {
+            "id": 101,
+            "name": "사제_징벌의 빛_Holy Shot_Cast 01",
+            "parentId": 527020
+        },
+        {
+            "id": 103,
+            "name": "사제_재생의 바람_Wide Heal_Cast 01",
+            "parentId": 527020
+        },
+        {
+            "id": 104,
+            "name": "사제_치유의 바람_Concentrate Heal_Cast 01",
+            "parentId": 527020
+        },
+        {
+            "id": 105,
+            "name": "사제_보호의 축복_Defence Up Bless_Cast 01",
+            "parentId": 527020
+        },
+        {
+            "id": 106,
+            "name": "사제_힘의 축복_Attack Up Bless_Cast 01",
+            "parentId": 527020
+        },
+        {
+            "id": 107,
+            "name": "사제_각성_Recovery_Cast 01",
+            "parentId": 527020
+        },
+        {
+            "id": 108,
+            "name": "사제_안식의 축복_Sleep Ball_Cast 01",
+            "parentId": 527020
+        },
+        {
+            "id": 109,
+            "name": "사제_안식의 축복 발사체_Sleep Ball_Projectile 01",
+            "parentId": 527020
+        },
+        {
+            "id": 110,
+            "name": "사제_징벌의 장막_Retrbutionwave_Cast 01",
+            "parentId": 527020
+        },
+        {
+            "id": 111,
+            "name": "사제_신성 폭발_Holy Blast_Cast 01",
+            "parentId": 527020
+        },
+        {
+            "id": 0,
+            "name": "사제_폭탄 던지기",
+            "parentId": 527020
+        }
+    ],
+    "4504": [
+        {
+            "id": 101,
+            "name": "휴먼 남 로브5(정령사)_정령탄_Magic Arrow_Cast 01",
+            "parentId": 530020
+        },
+        {
+            "id": 103,
+            "name": "휴먼 남 로브5(정령사)_광기의 정령_Rage Bless_Cast 01",
+            "parentId": 530020
+        },
+        {
+            "id": 104,
+            "name": "휴먼 남 로브5(정령사)_신속의 정령_Haste Bless_Cast 01",
+            "parentId": 530020
+        },
+        {
+            "id": 105,
+            "name": "휴먼 남 로브5(정령사)_구속탄_Slow Ball_Cast 01",
+            "parentId": 530020
+        },
+        {
+            "id": 106,
+            "name": "휴먼 남 로브5(정령사)_구속탄_Slow Ball_Projectile 01",
+            "parentId": 530020
+        },
+        {
+            "id": 107,
+            "name": "휴먼 남 로브5(정령사)_회복탄_Heal_Cast 01",
+            "parentId": 530020
+        },
+        {
+            "id": 108,
+            "name": "휴먼 남 로브5(정령사)_섬광탄_Flash Bomb_Cast 01",
+            "parentId": 530020
+        },
+        {
+            "id": 109,
+            "name": "휴먼 남 로브5(정령사)_섬광탄_Flash Bomb_Projectile 01",
+            "parentId": 530020
+        },
+        {
+            "id": 110,
+            "name": "휴먼 남 로브5(정령사)_징벌의 장막_elementalStrike 01",
+            "parentId": 530020
+        },
+        {
+            "id": 111,
+            "name": "휴먼 남 로브5(정령사)_정화탄_purify_Cast A 01",
+            "parentId": 530020
+        },
+        {
+            "id": 112,
+            "name": "휴먼 남 로브5(정령사)_정화탄_purify_Projectile A 01",
+            "parentId": 530020
+        },
+        {
+            "id": 113,
+            "name": "휴먼 남 로브5(정령사)_정기 흡수_MP Supply Charge_Drain 00",
+            "parentId": 530020
+        },
+        {
+            "id": 0,
+            "name": "휴먼 남 로브5(정령사)_폭탄 던지기",
+            "parentId": 530020
+        }
+    ],
+    "4505": [
+        {
+            "id": 101,
+            "name": "아만 남 경갑5 무사_1콤보_combo1_노말",
+            "parentId": 530410
+        },
+        {
+            "id": 103,
+            "name": "아만 남 경갑5 무사_회전베기_SwordDance_노말",
+            "parentId": 530410
+        },
+        {
+            "id": 104,
+            "name": "아만 남 경갑5 무사_후려치기_HandySlash_노말",
+            "parentId": 530410
+        },
+        {
+            "id": 110,
+            "name": "아만 남 경갑5 무사_2콤보_combo2_노말",
+            "parentId": 530410
+        },
+        {
+            "id": 111,
+            "name": "아만 남 경갑5 무사_3콤보_combo3_노말",
+            "parentId": 530410
+        },
+        {
+            "id": 112,
+            "name": "아만 남 경갑5 무사_4콤보_combo4_노말",
+            "parentId": 530410
+        },
+        {
+            "id": 206,
+            "name": "아만 남 경갑5 무사_회피_tumbling_노말",
+            "parentId": 530410
+        },
+        {
+            "id": 0,
+            "name": "아만 남 경갑5 무사_폭탄 던지기",
+            "parentId": 530410
+        }
+    ],
+    "4511": [
+        {
+            "id": 101,
+            "name": "카이아의 검 남병사_1콤보_combo1_노말",
+            "parentId": 523020
+        },
+        {
+            "id": 103,
+            "name": "카이아의 검 남병사_회전베기_SwordDance_노말",
+            "parentId": 523020
+        },
+        {
+            "id": 104,
+            "name": "카이아의 검 남병사_후려치기_HandySlash_노말",
+            "parentId": 523020
+        },
+        {
+            "id": 110,
+            "name": "카이아의 검 남병사_2콤보_combo2_노말",
+            "parentId": 523020
+        },
+        {
+            "id": 111,
+            "name": "카이아의 검 남병사_3콤보_combo3_노말",
+            "parentId": 523020
+        },
+        {
+            "id": 112,
+            "name": "카이아의 검 남병사_4콤보_combo4_노말",
+            "parentId": 523020
+        },
+        {
+            "id": 206,
+            "name": "카이아의 검 남병사_회피_tumbling_노말",
+            "parentId": 523020
+        },
+        {
+            "id": 0,
+            "name": "카이아의 검 남병사_폭탄 던지기",
+            "parentId": 523020
+        }
+    ],
+    "4521": [
+        {
+            "id": 101,
+            "name": "카이아의 검 남병사_1콤보_combo1_노말",
+            "parentId": 523020
+        },
+        {
+            "id": 103,
+            "name": "카이아의 검 남병사_회전베기_SwordDance_노말",
+            "parentId": 523020
+        },
+        {
+            "id": 104,
+            "name": "카이아의 검 남병사_후려치기_HandySlash_노말",
+            "parentId": 523020
+        },
+        {
+            "id": 110,
+            "name": "카이아의 검 남병사_2콤보_combo2_노말",
+            "parentId": 523020
+        },
+        {
+            "id": 111,
+            "name": "카이아의 검 남병사_3콤보_combo3_노말",
+            "parentId": 523020
+        },
+        {
+            "id": 112,
+            "name": "카이아의 검 남병사_4콤보_combo4_노말",
+            "parentId": 523020
+        },
+        {
+            "id": 206,
+            "name": "카이아의 검 남병사_회피_tumbling_노말",
+            "parentId": 523020
+        },
+        {
+            "id": 0,
+            "name": "카이아의 검 남병사_폭탄 던지기",
+            "parentId": 523020
+        }
+    ],
+    "4700": [
+        {
+            "id": 101,
+            "name": "투명NPC_이상상태 걸기",
+            "parentId": null
+        }
+    ]
+}

@@ -1,0 +1,696 @@
+{
+    "1000": [
+        {
+            "id": 101,
+            "name": "Fighter_평타1 오른손 공격",
+            "parentId": 545060
+        },
+        {
+            "id": 102,
+            "name": "Fighter_평타2 왼손 공격",
+            "parentId": 545060
+        },
+        {
+            "id": 103,
+            "name": "Fighter_평타3 전방 공격",
+            "parentId": 545060
+        },
+        {
+            "id": 104,
+            "name": "Fighter_평타4 상하 공격",
+            "parentId": 545060
+        },
+        {
+            "id": 105,
+            "name": "Fighter_철산고(막기)(사용안함)",
+            "parentId": 545060
+        },
+        {
+            "id": 106,
+            "name": "Fighter_반격타(사용안함)",
+            "parentId": 545060
+        },
+        {
+            "id": 107,
+            "name": "Fighter_반격타 1타",
+            "parentId": 545060
+        },
+        {
+            "id": 108,
+            "name": "Fighter_후려치기(1타 연계)",
+            "parentId": 545060
+        },
+        {
+            "id": 109,
+            "name": "Fighter_올려치기(2타 연계)",
+            "parentId": 545060
+        },
+        {
+            "id": 110,
+            "name": "Fighter_회전치기(3타 연계)",
+            "parentId": 545060
+        },
+        {
+            "id": 111,
+            "name": "Fighter_밀어치기(4타 연계)",
+            "parentId": 545060
+        },
+        {
+            "id": 112,
+            "name": "Fighter_폭연타(사용안함)",
+            "parentId": 545060
+        },
+        {
+            "id": 113,
+            "name": "Fighter_올려차기",
+            "parentId": 545060
+        },
+        {
+            "id": 114,
+            "name": "Fighter_승천타",
+            "parentId": 545060
+        },
+        {
+            "id": 115,
+            "name": "Fighter_일격타(느림)",
+            "parentId": 545060
+        },
+        {
+            "id": 116,
+            "name": "Fighter_일격타(빠름)",
+            "parentId": 545060
+        },
+        {
+            "id": 117,
+            "name": "Fighter_지면 강타(근원)",
+            "parentId": 545060
+        },
+        {
+            "id": 118,
+            "name": "Fighter_지면 강타(원근)",
+            "parentId": 545060
+        },
+        {
+            "id": 119,
+            "name": "Fighter_걷어 차기",
+            "parentId": 545060
+        },
+        {
+            "id": 120,
+            "name": "Fighter_걷어 차기(랜타용)",
+            "parentId": 545060
+        },
+        {
+            "id": 121,
+            "name": "Fighter_공중 차기",
+            "parentId": 545060
+        },
+        {
+            "id": 122,
+            "name": "Fighter_비공 연타(사용안함)",
+            "parentId": 545060
+        },
+        {
+            "id": 123,
+            "name": "Fighter_날아차기",
+            "parentId": 545060
+        },
+        {
+            "id": 124,
+            "name": "Fighter_날아차기(랜타용)",
+            "parentId": 545060
+        },
+        {
+            "id": 125,
+            "name": "Fighter_2단_날아차기",
+            "parentId": 545060
+        },
+        {
+            "id": 126,
+            "name": "Fighter_분노의 난타(사용안함)",
+            "parentId": 545060
+        },
+        {
+            "id": 127,
+            "name": "Fighter_분노의 난타 3타",
+            "parentId": 545060
+        },
+        {
+            "id": 128,
+            "name": "Fighter_분노의 승천타",
+            "parentId": 545060
+        },
+        {
+            "id": 129,
+            "name": "Fighter_원인치펀치",
+            "parentId": 545060
+        },
+        {
+            "id": 130,
+            "name": "Fighter_태풍 연타(사용안함)",
+            "parentId": 545060
+        },
+        {
+            "id": 131,
+            "name": "Fighter_태풍 연타 오른손",
+            "parentId": 545060
+        },
+        {
+            "id": 132,
+            "name": "Fighter_태풍 연타 왼손",
+            "parentId": 545060
+        },
+        {
+            "id": 133,
+            "name": "Fighter_태풍 연타 어퍼컷",
+            "parentId": 545060
+        },
+        {
+            "id": 135,
+            "name": "Fighter_거인의 힘",
+            "parentId": 545060
+        },
+        {
+            "id": 136,
+            "name": "Fighter_진정(사용안함)",
+            "parentId": 545060
+        },
+        {
+            "id": 137,
+            "name": "Fighter_난폭한 돌진(사용안함)",
+            "parentId": 545060
+        },
+        {
+            "id": 138,
+            "name": "Fighter_도발(사용안함)",
+            "parentId": 545060
+        },
+        {
+            "id": 139,
+            "name": "Fighter_분노 유발(사용안함)",
+            "parentId": 545060
+        },
+        {
+            "id": 140,
+            "name": "Fighter_차오르는 분노(사용안함)",
+            "parentId": 545060
+        },
+        {
+            "id": 141,
+            "name": "Fighter_회피(사용안함)",
+            "parentId": 545060
+        },
+        {
+            "id": 142,
+            "name": "Fighter_밀치기",
+            "parentId": 545060
+        },
+        {
+            "id": 143,
+            "name": "Fighter_정의의 도약(랜타용)",
+            "parentId": 545060
+        },
+        {
+            "id": 144,
+            "name": "Fighter_돌려차기",
+            "parentId": 545060
+        },
+        {
+            "id": 145,
+            "name": "Fighter_뒤점프(사용안함)",
+            "parentId": 545060
+        },
+        {
+            "id": 146,
+            "name": "Fighter_뒤차기",
+            "parentId": 545060
+        },
+        {
+            "id": 148,
+            "name": "Fighter_뒤돌기",
+            "parentId": 545060
+        },
+        {
+            "id": 151,
+            "name": "Fighter_목잡기(사용안함)",
+            "parentId": 545060
+        },
+        {
+            "id": 152,
+            "name": "Fighter_거인의 힘(HP30%)",
+            "parentId": 545060
+        },
+        {
+            "id": 153,
+            "name": "Fighter_평타1 오른손 공격(연계)",
+            "parentId": 545060
+        },
+        {
+            "id": 154,
+            "name": "Fighter_날아차기(연계)",
+            "parentId": 545060
+        },
+        {
+            "id": 155,
+            "name": "Fighter_지면 강타_3타",
+            "parentId": 545060
+        },
+        {
+            "id": 301,
+            "name": "Fighter_태풍 연타 페이크 모션",
+            "parentId": 545060
+        },
+        {
+            "id": 302,
+            "name": "Fighter_기 모으기",
+            "parentId": 545060
+        },
+        {
+            "id": 303,
+            "name": "Fighter_ModeAlarm_무기 미착용",
+            "parentId": 545060
+        },
+        {
+            "id": 304,
+            "name": "Fighter_ModeAlarm_무기 착용",
+            "parentId": 545060
+        },
+        {
+            "id": 305,
+            "name": "Fighter_Wait_모션",
+            "parentId": 545060
+        },
+        {
+            "id": 306,
+            "name": "Fighter_70%_무기 착용 모션",
+            "parentId": 545060
+        },
+        {
+            "id": 307,
+            "name": "Fighter_목잡기용_정의의도약",
+            "parentId": 545060
+        },
+        {
+            "id": 308,
+            "name": "Fighter_기합 모션",
+            "parentId": 545060
+        },
+        {
+            "id": 309,
+            "name": "Fighter_목잡기 모션",
+            "parentId": 545060
+        },
+        {
+            "id": 310,
+            "name": "Fighter_뒤점프 모션",
+            "parentId": 545060
+        },
+        {
+            "id": 311,
+            "name": "Fighter_목잡기_깨짐",
+            "parentId": 545060
+        },
+        {
+            "id": 312,
+            "name": "전투 3초 대기",
+            "parentId": 545060
+        },
+        {
+            "id": 313,
+            "name": "Fighter_광역기용_정의의도약",
+            "parentId": 545060
+        },
+        {
+            "id": 314,
+            "name": "Fighter_광역기",
+            "parentId": 545060
+        }
+    ],
+    "1003": [
+        {
+            "id": 101,
+            "name": "Fighter_평타1 오른손 공격",
+            "parentId": 545060
+        },
+        {
+            "id": 102,
+            "name": "Fighter_평타2 왼손 공격",
+            "parentId": 545060
+        },
+        {
+            "id": 103,
+            "name": "Fighter_평타3 전방 공격",
+            "parentId": 545060
+        },
+        {
+            "id": 104,
+            "name": "Fighter_평타4 상하 공격",
+            "parentId": 545060
+        },
+        {
+            "id": 105,
+            "name": "Fighter_철산고(막기)(사용안함)",
+            "parentId": 545060
+        },
+        {
+            "id": 106,
+            "name": "Fighter_반격타(사용안함)",
+            "parentId": 545060
+        },
+        {
+            "id": 107,
+            "name": "Fighter_반격타 1타",
+            "parentId": 545060
+        },
+        {
+            "id": 108,
+            "name": "Fighter_후려치기(1타 연계)",
+            "parentId": 545060
+        },
+        {
+            "id": 109,
+            "name": "Fighter_올려치기(2타 연계)",
+            "parentId": 545060
+        },
+        {
+            "id": 110,
+            "name": "Fighter_회전치기(3타 연계)",
+            "parentId": 545060
+        },
+        {
+            "id": 111,
+            "name": "Fighter_밀어치기(4타 연계)",
+            "parentId": 545060
+        },
+        {
+            "id": 112,
+            "name": "Fighter_폭연타(사용안함)",
+            "parentId": 545060
+        },
+        {
+            "id": 113,
+            "name": "Fighter_올려차기",
+            "parentId": 545060
+        },
+        {
+            "id": 114,
+            "name": "Fighter_승천타",
+            "parentId": 545060
+        },
+        {
+            "id": 115,
+            "name": "Fighter_일격타(느림)",
+            "parentId": 545060
+        },
+        {
+            "id": 116,
+            "name": "Fighter_일격타(빠름)",
+            "parentId": 545060
+        },
+        {
+            "id": 117,
+            "name": "Fighter_지면 강타(근원)",
+            "parentId": 545060
+        },
+        {
+            "id": 118,
+            "name": "Fighter_지면 강타(원근)",
+            "parentId": 545060
+        },
+        {
+            "id": 119,
+            "name": "Fighter_걷어 차기",
+            "parentId": 545060
+        },
+        {
+            "id": 120,
+            "name": "Fighter_걷어 차기(랜타용)",
+            "parentId": 545060
+        },
+        {
+            "id": 121,
+            "name": "Fighter_공중 차기",
+            "parentId": 545060
+        },
+        {
+            "id": 122,
+            "name": "Fighter_비공 연타(사용안함)",
+            "parentId": 545060
+        },
+        {
+            "id": 123,
+            "name": "Fighter_날아차기",
+            "parentId": 545060
+        },
+        {
+            "id": 124,
+            "name": "Fighter_날아차기(랜타용)",
+            "parentId": 545060
+        },
+        {
+            "id": 125,
+            "name": "Fighter_2단_날아차기",
+            "parentId": 545060
+        },
+        {
+            "id": 126,
+            "name": "Fighter_분노의 난타(사용안함)",
+            "parentId": 545060
+        },
+        {
+            "id": 127,
+            "name": "Fighter_분노의 난타 3타",
+            "parentId": 545060
+        },
+        {
+            "id": 128,
+            "name": "Fighter_분노의 승천타",
+            "parentId": 545060
+        },
+        {
+            "id": 129,
+            "name": "Fighter_원인치펀치",
+            "parentId": 545060
+        },
+        {
+            "id": 130,
+            "name": "Fighter_태풍 연타(사용안함)",
+            "parentId": 545060
+        },
+        {
+            "id": 131,
+            "name": "Fighter_태풍 연타 오른손",
+            "parentId": 545060
+        },
+        {
+            "id": 132,
+            "name": "Fighter_태풍 연타 왼손",
+            "parentId": 545060
+        },
+        {
+            "id": 133,
+            "name": "Fighter_태풍 연타 어퍼컷",
+            "parentId": 545060
+        },
+        {
+            "id": 135,
+            "name": "Fighter_거인의 힘",
+            "parentId": 545060
+        },
+        {
+            "id": 136,
+            "name": "Fighter_진정(사용안함)",
+            "parentId": 545060
+        },
+        {
+            "id": 137,
+            "name": "Fighter_난폭한 돌진(사용안함)",
+            "parentId": 545060
+        },
+        {
+            "id": 138,
+            "name": "Fighter_도발(사용안함)",
+            "parentId": 545060
+        },
+        {
+            "id": 139,
+            "name": "Fighter_분노 유발(사용안함)",
+            "parentId": 545060
+        },
+        {
+            "id": 140,
+            "name": "Fighter_차오르는 분노(사용안함)",
+            "parentId": 545060
+        },
+        {
+            "id": 141,
+            "name": "Fighter_회피(사용안함)",
+            "parentId": 545060
+        },
+        {
+            "id": 142,
+            "name": "Fighter_밀치기",
+            "parentId": 545060
+        },
+        {
+            "id": 143,
+            "name": "Fighter_정의의 도약(랜타용)",
+            "parentId": 545060
+        },
+        {
+            "id": 144,
+            "name": "Fighter_돌려차기",
+            "parentId": 545060
+        },
+        {
+            "id": 145,
+            "name": "Fighter_뒤점프(사용안함)",
+            "parentId": 545060
+        },
+        {
+            "id": 146,
+            "name": "Fighter_뒤차기",
+            "parentId": 545060
+        },
+        {
+            "id": 148,
+            "name": "Fighter_뒤돌기",
+            "parentId": 545060
+        },
+        {
+            "id": 151,
+            "name": "Fighter_목잡기(사용안함)",
+            "parentId": 545060
+        },
+        {
+            "id": 152,
+            "name": "Fighter_거인의 힘(HP30%)",
+            "parentId": 545060
+        },
+        {
+            "id": 153,
+            "name": "Fighter_평타1 오른손 공격(연계)",
+            "parentId": 545060
+        },
+        {
+            "id": 154,
+            "name": "Fighter_날아차기(연계)",
+            "parentId": 545060
+        },
+        {
+            "id": 155,
+            "name": "Fighter_지면 강타_3타",
+            "parentId": 545060
+        },
+        {
+            "id": 301,
+            "name": "Fighter_태풍 연타 페이크 모션",
+            "parentId": 545060
+        },
+        {
+            "id": 302,
+            "name": "Fighter_기 모으기",
+            "parentId": 545060
+        },
+        {
+            "id": 303,
+            "name": "Fighter_ModeAlarm_무기 미착용",
+            "parentId": 545060
+        },
+        {
+            "id": 304,
+            "name": "Fighter_ModeAlarm_무기 착용",
+            "parentId": 545060
+        },
+        {
+            "id": 305,
+            "name": "Fighter_Wait_모션",
+            "parentId": 545060
+        },
+        {
+            "id": 306,
+            "name": "Fighter_70%_무기 착용 모션",
+            "parentId": 545060
+        },
+        {
+            "id": 307,
+            "name": "Fighter_목잡기용_정의의도약",
+            "parentId": 545060
+        },
+        {
+            "id": 308,
+            "name": "Fighter_기합 모션",
+            "parentId": 545060
+        },
+        {
+            "id": 309,
+            "name": "Fighter_목잡기 모션",
+            "parentId": 545060
+        },
+        {
+            "id": 310,
+            "name": "Fighter_뒤점프 모션",
+            "parentId": 545060
+        },
+        {
+            "id": 311,
+            "name": "Fighter_목잡기_깨짐",
+            "parentId": 545060
+        }
+    ],
+    "1010": [
+        {
+            "id": 251,
+            "name": "TNPC_레이저(1)_장판_사용안함",
+            "parentId": 320120
+        },
+        {
+            "id": 271,
+            "name": "TNPC_장판1",
+            "parentId": 320120
+        }
+    ],
+    "1011": [
+        {
+            "id": 252,
+            "name": "TNPC_레이저(2)_장판_사용안함",
+            "parentId": 320120
+        },
+        {
+            "id": 272,
+            "name": "TNPC_장판2",
+            "parentId": 320120
+        }
+    ],
+    "1012": [
+        {
+            "id": 253,
+            "name": "TNPC_레이저(3)_장판_사용안함",
+            "parentId": 320120
+        },
+        {
+            "id": 273,
+            "name": "TNPC_장판3",
+            "parentId": 320120
+        }
+    ],
+    "1013": [
+        {
+            "id": 254,
+            "name": "TNPC_레이저(4)_장판_사용안함",
+            "parentId": 320120
+        },
+        {
+            "id": 274,
+            "name": "TNPC_장판4",
+            "parentId": 320120
+        }
+    ],
+    "1014": [
+        {
+            "id": 275,
+            "name": "TNPC_공간제한",
+            "parentId": 320120
+        }
+    ]
+}

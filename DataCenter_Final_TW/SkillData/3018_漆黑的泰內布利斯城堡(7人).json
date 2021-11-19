@@ -1,0 +1,1763 @@
+{
+    "1000": [
+        {
+            "id": 1101,
+            "name": "볼카누스(블루)_오른손휘두르기_Atk01_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1102,
+            "name": "볼카누스(블루)_왼손휘두르기_longatk_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1103,
+            "name": "볼카누스(블루)_전진3연타공격_HeavyAtk_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1104,
+            "name": "볼카누스(블루)_전방점프공격_MoveAtk_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1105,
+            "name": "볼카누스(블루)_좌회전공격_RoungAtk01_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1106,
+            "name": "볼카누스(블루)_우회전공격_RoungAtk02_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1107,
+            "name": "볼카누스(블루)_롱무브_LongMove(근)_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1108,
+            "name": "볼카누스(블루)_백점프어택_UltraAtk02_2_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1109,
+            "name": "볼카누스(블루)_백어택시작_backAtk01Start_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1110,
+            "name": "볼카누스(블루)_백어택존야_backAtk01Loop_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1111,
+            "name": "볼카누스(블루)_백어택제자리로_backAtk01End01_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1112,
+            "name": "볼카누스(블루)_백어택후전방강공_backAtk01End02_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1113,
+            "name": "볼카누스(블루)_점프장판1_moveAtk_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1114,
+            "name": "볼카누스(블루)_점프장판2_moveAtk_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1115,
+            "name": "볼카누스(블루)_점프장판3_moveAtk_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1116,
+            "name": "볼카누스(블루)_내려찍기시작_HeavyAtk02Start_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1117,
+            "name": "볼카누스(블루)_내려찍기종료(방막가능)_HeavyAtk02End_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1118,
+            "name": "볼카누스(블루)_내려찍기콤보_HeavyAtk02Combo_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1119,
+            "name": "볼카누스(블루)_내려찍기루프_HeavyAtk02Loop_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1120,
+            "name": "볼카누스(블루)_내려찍기종료(방막불가)_HeavyAtk02End_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1121,
+            "name": "볼카누스(블루)_전멸기사전모션_modealarm_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1122,
+            "name": "볼카누스(블루)_전멸기밀치기(회피가능)_UltraAtk02_1_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1123,
+            "name": "볼카누스(블루)_밀치기후전멸기_HeavyAtk02_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1124,
+            "name": "볼카누스(블루)_3단지진(근중원)_UltraAtk01_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1125,
+            "name": "볼카누스(블루)_전방브레스_moveAtk_1,2_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1126,
+            "name": "볼카누스(블루)_스턴대상타격_backAtk01_loop,end02_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1127,
+            "name": "볼카누스(블루)_양옆쾅쾅_UltraAtk01_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1128,
+            "name": "볼카누스(블루)_원거리레이저_backAtk01_loop,end02_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1129,
+            "name": "볼카누스(블루)_파란주시분산피해_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1130,
+            "name": "볼카누스(블루)_백점프_BackJump_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1131,
+            "name": "볼카누스(블루)_백점프연계레이저_backAtk01_loop,end02_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1132,
+            "name": "볼카누스(블루)_에너지 기둥 파괴 5인 누킹",
+            "parentId": 304070
+        },
+        {
+            "id": 1150,
+            "name": "볼카누스(블루)_액티브무브공격판정_Run_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1151,
+            "name": "볼카누스(블루)_(인던전용)액티브무브공격_Run_노멀",
+            "parentId": 304070
+        },
+        {
+            "id": 1201,
+            "name": "볼카누스(블루)_전진3연타공격(강화)_HeavyAtk_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1202,
+            "name": "볼카누스(블루)_내려찍기방막불가(강화)_HeavyAtk02_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1203,
+            "name": "볼카누스(블루)_내려찍기방막불가(강화)후속장판_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1204,
+            "name": "볼카누스(블루)_백점프레이저(강화)_backAtk01_loop,end02_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1205,
+            "name": "볼카누스(블루)_원거리레이저(강화)_backAtk01_loop,end02_노말",
+            "parentId": 304070
+        },
+        {
+            "id": 1206,
+            "name": "볼카누스(블루)_0.5초 대기_Wait",
+            "parentId": 304070
+        },
+        {
+            "id": 1301,
+            "name": "볼카누스(블루)_포효5인번개장판_Roar",
+            "parentId": 304070
+        },
+        {
+            "id": 1302,
+            "name": "볼카누스(블루)_에너지게이지풀전체공격",
+            "parentId": 304070
+        },
+        {
+            "id": 1303,
+            "name": "볼카누스(블루)_공포 이상상태 심어주기_modealarm",
+            "parentId": 304070
+        },
+        {
+            "id": 1304,
+            "name": "볼카누스(블루)_공포 심어주고 땡기기_UltraAtk02_1",
+            "parentId": 304070
+        },
+        {
+            "id": 1305,
+            "name": "볼카누스(블루)_전체공격후분산데미지레이저_backAtk01_start,loop,end02",
+            "parentId": 304070
+        },
+        {
+            "id": 2101,
+            "name": "볼카누스(블루)_오른손휘두르기_Atk01_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2102,
+            "name": "볼카누스(블루)_왼손휘두르기_longatk_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2103,
+            "name": "볼카누스(블루)_전진3연타공격_HeavyAtk_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2104,
+            "name": "볼카누스(블루)_전방점프공격_MoveAtk_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2105,
+            "name": "볼카누스(블루)_좌회전공격_RoungAtk01_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2106,
+            "name": "볼카누스(블루)_우회전공격_RoungAtk02_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2107,
+            "name": "볼카누스(블루)_롱무브_LongMove(근)_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2108,
+            "name": "볼카누스(블루)_백점프어택_UltraAtk02_2_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2109,
+            "name": "볼카누스(블루)_백어택시작_backAtk01Start_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2110,
+            "name": "볼카누스(블루)_백어택존야_backAtk01Loop_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2111,
+            "name": "볼카누스(블루)_백어택제자리로_backAtk01End01_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2112,
+            "name": "볼카누스(블루)_백어택후전방강공_backAtk01End02_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2113,
+            "name": "볼카누스(블루)_점프장판1_moveAtk_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2114,
+            "name": "볼카누스(블루)_점프장판2_moveAtk_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2115,
+            "name": "볼카누스(블루)_점프장판3_moveAtk_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2116,
+            "name": "볼카누스(블루)_내려찍기시작_HeavyAtk02Start_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2117,
+            "name": "볼카누스(블루)_내려찍기종료(방막가능)_HeavyAtk02End_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2118,
+            "name": "볼카누스(블루)_내려찍기콤보_HeavyAtk02Combo_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2119,
+            "name": "볼카누스(블루)_내려찍기루프_HeavyAtk02Loop_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2120,
+            "name": "볼카누스(블루)_내려찍기종료(방막불가)_HeavyAtk02End_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2121,
+            "name": "볼카누스(블루)_전멸기사전모션_modealarm_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2122,
+            "name": "볼카누스(블루)_전멸기밀치기(회피가능)_UltraAtk02_1_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2123,
+            "name": "볼카누스(블루)_밀치기후전멸기_HeavyAtk02_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2124,
+            "name": "볼카누스(블루)_3단지진(근중원)_UltraAtk01_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2125,
+            "name": "볼카누스(블루)_전방브레스_moveAtk_1,2_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2126,
+            "name": "볼카누스(블루)_스턴대상타격_backAtk01_loop,end02_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2127,
+            "name": "볼카누스(블루)_양옆쾅쾅_UltraAtk01_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2128,
+            "name": "볼카누스(블루)_원거리레이저_backAtk01_loop,end02_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2129,
+            "name": "볼카누스(블루)_파란주시분산피해_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2130,
+            "name": "볼카누스(블루)_백점프_BackJump_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2131,
+            "name": "볼카누스(블루)_백점프연계레이저_backAtk01_loop,end02_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2132,
+            "name": "볼카누스(블루)_에너지 기둥 파괴 5인 누킹",
+            "parentId": 304070
+        },
+        {
+            "id": 2150,
+            "name": "볼카누스(블루)_액티브무브공격판정_Run_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2151,
+            "name": "볼카누스(블루)_(인던전용)액티브무브공격_Run_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2201,
+            "name": "볼카누스(블루)_전진3연타공격(강화)_HeavyAtk_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2202,
+            "name": "볼카누스(블루)_내려찍기방막불가(강화)_HeavyAtk02_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2203,
+            "name": "볼카누스(블루)_내려찍기방막불가(강화)후속장판_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2204,
+            "name": "볼카누스(블루)_백점프레이저(강화)_backAtk01_loop,end02_분노",
+            "parentId": 304070
+        },
+        {
+            "id": 2205,
+            "name": "볼카누스(블루)_원거리레이저(강화)_backAtk01_loop,end02_분노",
+            "parentId": 304070
+        }
+    ],
+    "1001": [
+        {
+            "id": 1401,
+            "name": "전깃줄",
+            "parentId": 611640
+        }
+    ],
+    "1002": [
+        {
+            "id": 1301,
+            "name": "1네임드투명NPC_점프장판1",
+            "parentId": null
+        }
+    ],
+    "1003": [
+        {
+            "id": 1301,
+            "name": "1네임드투명NPC_점프장판2",
+            "parentId": null
+        }
+    ],
+    "1004": [
+        {
+            "id": 1301,
+            "name": "1네임드투명NPC_점프장판3",
+            "parentId": null
+        }
+    ],
+    "1005": [
+        {
+            "id": 1402,
+            "name": "1네임드 전투공간 제한용",
+            "parentId": null
+        }
+    ],
+    "1006": [
+        {
+            "id": 1301,
+            "name": "1네임드투명NPC_파란주시볼카누스블루타격",
+            "parentId": null
+        }
+    ],
+    "1009": [
+        {
+            "id": 1301,
+            "name": "1네임드투명NPC_에너지기둥5인누킹타격",
+            "parentId": null
+        }
+    ],
+    "1011": [
+        {
+            "id": 1301,
+            "name": "에너지 기둥1 활성화",
+            "parentId": null
+        },
+        {
+            "id": 1302,
+            "name": "에너지 기둥1 장판 생성 스킬",
+            "parentId": null
+        },
+        {
+            "id": 1303,
+            "name": "에너지 기둥1 장판",
+            "parentId": null
+        },
+        {
+            "id": 1304,
+            "name": "에너지 기둥1 구체 발사 스킬",
+            "parentId": null
+        },
+        {
+            "id": 1305,
+            "name": "에너지 기둥1 구체",
+            "parentId": null
+        },
+        {
+            "id": 1306,
+            "name": "에너지 기둥1 전기 발사 스킬",
+            "parentId": null
+        },
+        {
+            "id": 1307,
+            "name": "에너지 기둥1 구슬 소환 스킬",
+            "parentId": null
+        },
+        {
+            "id": 1308,
+            "name": "에너지 기둥1 범위 내 유저 들어오면 근폭밀치기",
+            "parentId": 743100
+        },
+        {
+            "id": 1309,
+            "name": "에너지 기둥1 범위 내 유저 들어오면 근폭스턴",
+            "parentId": 743100
+        }
+    ],
+    "1012": [
+        {
+            "id": 1301,
+            "name": "에너지 기둥2 활성화",
+            "parentId": null
+        },
+        {
+            "id": 1302,
+            "name": "에너지 기둥2 장판 생성 스킬",
+            "parentId": null
+        },
+        {
+            "id": 1303,
+            "name": "에너지 기둥2 장판",
+            "parentId": null
+        },
+        {
+            "id": 1304,
+            "name": "에너지 기둥2 구체 발사 스킬",
+            "parentId": null
+        },
+        {
+            "id": 1305,
+            "name": "에너지 기둥2 구체",
+            "parentId": null
+        },
+        {
+            "id": 1306,
+            "name": "에너지 기둥2 전기 발사 스킬",
+            "parentId": null
+        },
+        {
+            "id": 1307,
+            "name": "에너지 기둥2 구슬 소환 스킬",
+            "parentId": null
+        },
+        {
+            "id": 1308,
+            "name": "에너지 기둥2 범위 내 유저 들어오면 근폭밀치기",
+            "parentId": 743100
+        },
+        {
+            "id": 1309,
+            "name": "에너지 기둥2 범위 내 유저 들어오면 근폭스턴",
+            "parentId": 743100
+        }
+    ],
+    "1013": [
+        {
+            "id": 1301,
+            "name": "에너지 기둥3 활성화",
+            "parentId": null
+        },
+        {
+            "id": 1302,
+            "name": "에너지 기둥3 장판 생성 스킬",
+            "parentId": null
+        },
+        {
+            "id": 1303,
+            "name": "에너지 기둥3 장판",
+            "parentId": null
+        },
+        {
+            "id": 1304,
+            "name": "에너지 기둥3 구체 발사 스킬",
+            "parentId": null
+        },
+        {
+            "id": 1305,
+            "name": "에너지 기둥3 구체",
+            "parentId": null
+        },
+        {
+            "id": 1306,
+            "name": "에너지 기둥3 전기 발사 스킬",
+            "parentId": null
+        },
+        {
+            "id": 1307,
+            "name": "에너지 기둥3 구슬 소환 스킬",
+            "parentId": null
+        },
+        {
+            "id": 1308,
+            "name": "에너지 기둥3 범위 내 유저 들어오면 근폭밀치기",
+            "parentId": 743100
+        },
+        {
+            "id": 1309,
+            "name": "에너지 기둥3 범위 내 유저 들어오면 근폭스턴",
+            "parentId": 743100
+        }
+    ],
+    "1014": [
+        {
+            "id": 1301,
+            "name": "에너지 기둥4 활성화",
+            "parentId": null
+        },
+        {
+            "id": 1302,
+            "name": "에너지 기둥4 장판 생성 스킬",
+            "parentId": null
+        },
+        {
+            "id": 1303,
+            "name": "에너지 기둥4 장판",
+            "parentId": null
+        },
+        {
+            "id": 1304,
+            "name": "에너지 기둥4 구체 발사 스킬",
+            "parentId": null
+        },
+        {
+            "id": 1305,
+            "name": "에너지 기둥4 구체",
+            "parentId": null
+        },
+        {
+            "id": 1306,
+            "name": "에너지 기둥4 전기 발사 스킬",
+            "parentId": null
+        },
+        {
+            "id": 1307,
+            "name": "에너지 기둥4 구슬 소환 스킬",
+            "parentId": null
+        },
+        {
+            "id": 1308,
+            "name": "에너지 기둥4 범위 내 유저 들어오면 근폭밀치기",
+            "parentId": 743100
+        },
+        {
+            "id": 1309,
+            "name": "에너지 기둥4 범위 내 유저 들어오면 근폭스턴",
+            "parentId": 743100
+        }
+    ],
+    "1015": [
+        {
+            "id": 1301,
+            "name": "에너지 기둥5 활성화",
+            "parentId": null
+        },
+        {
+            "id": 1302,
+            "name": "에너지 기둥5 장판 생성 스킬",
+            "parentId": null
+        },
+        {
+            "id": 1303,
+            "name": "에너지 기둥5 장판",
+            "parentId": null
+        },
+        {
+            "id": 1304,
+            "name": "에너지 기둥5 구체 발사 스킬",
+            "parentId": null
+        },
+        {
+            "id": 1305,
+            "name": "에너지 기둥5 구체",
+            "parentId": null
+        },
+        {
+            "id": 1306,
+            "name": "에너지 기둥5 전기 발사 스킬",
+            "parentId": null
+        },
+        {
+            "id": 1307,
+            "name": "에너지 기둥5 구슬 소환 스킬",
+            "parentId": null
+        },
+        {
+            "id": 1308,
+            "name": "에너지 기둥5 범위 내 유저 들어오면 근폭밀치기",
+            "parentId": 743100
+        },
+        {
+            "id": 1309,
+            "name": "에너지 기둥5 범위 내 유저 들어오면 근폭스턴",
+            "parentId": 743100
+        }
+    ],
+    "1016": [
+        {
+            "id": 1403,
+            "name": "전기구슬 소환 스킬",
+            "parentId": null
+        },
+        {
+            "id": 1404,
+            "name": "전기구슬",
+            "parentId": 611640
+        }
+    ],
+    "1017": [
+        {
+            "id": 1405,
+            "name": "번개 5인 누킹 타격",
+            "parentId": 611640
+        }
+    ],
+    "2000": [
+        {
+            "id": 1101,
+            "name": "룬골렘_오른손 공격_atk01_1_노말",
+            "parentId": 304080
+        },
+        {
+            "id": 1102,
+            "name": "룬골렘_왼손 공격_atk01_2_노말",
+            "parentId": 304080
+        },
+        {
+            "id": 1103,
+            "name": "룬골렘_좌측 라운드어택_roundAtk01_노말",
+            "parentId": 304080
+        },
+        {
+            "id": 1104,
+            "name": "룬골렘_우측 라운드어택_roundAtk02_노말",
+            "parentId": 304080
+        },
+        {
+            "id": 1105,
+            "name": "룬골렘_돌채찍 공격_longAtk02_노말",
+            "parentId": 304080
+        },
+        {
+            "id": 1106,
+            "name": "룬골렘_앞으로 굴러서 공격_moveAtk01_Start+moveAtk01_Loop+moveAtk01_End_노말",
+            "parentId": 304080
+        },
+        {
+            "id": 1107,
+            "name": "룬골렘_오른손을 내밀어 팔의 바위를 회전시키면서 화염을 모아 화염탄 발사_longAtk01_Start+longAtk01_End_노말 ",
+            "parentId": 304080
+        },
+        {
+            "id": 1108,
+            "name": "룬골렘_화염공격 발사체_노말",
+            "parentId": 304080
+        },
+        {
+            "id": 1109,
+            "name": "룬골렘_왼손콤보1시작_atk01_2+atk02_1_노말",
+            "parentId": 304080
+        },
+        {
+            "id": 1110,
+            "name": "룬골렘_왼손콤보1_reactionAtk_노말",
+            "parentId": 304080
+        },
+        {
+            "id": 1111,
+            "name": "룬골렘_왼손콤보2시작_atk01_2+atk02_1_노말",
+            "parentId": 304080
+        },
+        {
+            "id": 1112,
+            "name": "룬골렘_왼손콤보2_backAtk01_loop+backAtk01_end_노말",
+            "parentId": 304080
+        },
+        {
+            "id": 1113,
+            "name": "룬골렘_오른손콤보1시작_atk01_1+atk02_2_노말",
+            "parentId": 304080
+        },
+        {
+            "id": 1114,
+            "name": "룬골렘_오른손콤보1_heavyAtk01_Start+heavyAtk01_End_노말",
+            "parentId": 304080
+        },
+        {
+            "id": 1115,
+            "name": "룬골렘_오른손콤보2시작_atk01_1+atk02_3_노말",
+            "parentId": 304080
+        },
+        {
+            "id": 1116,
+            "name": "룬골렘_오른손콤보2_backAtk02_loop+backAtk02_end_노말",
+            "parentId": 304080
+        },
+        {
+            "id": 1117,
+            "name": "룬골렘_땅파고 나와서 찍기_longMove_Start+longMove_End_노말",
+            "parentId": 304080
+        },
+        {
+            "id": 1118,
+            "name": "룬골렘_전방채찍_longAtk02_노말",
+            "parentId": 304080
+        },
+        {
+            "id": 1119,
+            "name": "룬골렘_점프어택_longMove02_노말",
+            "parentId": 304080
+        },
+        {
+            "id": 1120,
+            "name": "룬골렘_앞찍뒷발차기_longMove02Start+backAtk02_end_노말",
+            "parentId": 304080
+        },
+        {
+            "id": 1121,
+            "name": "룬골렘_백무브_BackMove_노말",
+            "parentId": 304080
+        },
+        {
+            "id": 1151,
+            "name": "룬골렘_액티브무브어택_activeMove_Start+activeMove_Loop+activeMove_End_노말",
+            "parentId": 304080
+        },
+        {
+            "id": 1201,
+            "name": "룬골렘_모드알람_modealram_노말",
+            "parentId": 304080
+        },
+        {
+            "id": 1202,
+            "name": "룬골렘_도망_runAway_노말",
+            "parentId": 304080
+        },
+        {
+            "id": 1203,
+            "name": "룬골렘_그로기",
+            "parentId": 304080
+        },
+        {
+            "id": 1204,
+            "name": "룬골렘_1초 대기",
+            "parentId": 304080
+        },
+        {
+            "id": 1205,
+            "name": "룬골렘_유저에게무속성부여용스킬_Wait",
+            "parentId": 304080
+        },
+        {
+            "id": 1206,
+            "name": "스킬북 소환 직후 2초 대기",
+            "parentId": 304080
+        },
+        {
+            "id": 1301,
+            "name": "룬골렘_구른다패턴시작_longMove02",
+            "parentId": 304080
+        },
+        {
+            "id": 1302,
+            "name": "룬골렘_구른다패턴(탱커)_modealarm+moveAtk",
+            "parentId": 304080
+        },
+        {
+            "id": 1303,
+            "name": "룬골렘_구른다패턴(힐러)_modealarm+moveAtk",
+            "parentId": 304080
+        },
+        {
+            "id": 1304,
+            "name": "룬골렘_구른다패턴(딜러)_modealarm+moveAtk",
+            "parentId": 304080
+        },
+        {
+            "id": 1305,
+            "name": "룬골렘_스킬북에 붙어서 흡수_longAtk01_loop",
+            "parentId": 304080
+        },
+        {
+            "id": 1306,
+            "name": "룬골렘_따라가는레이저 후속 포획",
+            "parentId": 304080
+        },
+        {
+            "id": 1307,
+            "name": "룬골렘_포획후속타지면치기(속성으로 인한 이상상태 다 지워주는 정화)",
+            "parentId": 304080
+        },
+        {
+            "id": 1308,
+            "name": "스킬북1 흡수 직후 불폭탄",
+            "parentId": 304080
+        },
+        {
+            "id": 1309,
+            "name": "스킬북2 흡수 직후 물폭탄",
+            "parentId": 304080
+        },
+        {
+            "id": 1310,
+            "name": "스킬북3 흡수 직후 풀폭탄",
+            "parentId": 304080
+        },
+        {
+            "id": 1311,
+            "name": "룬골렘_화속성추가패턴2_화염갑옷+화산",
+            "parentId": 304080
+        },
+        {
+            "id": 1312,
+            "name": "룬골렘_수속성추가패턴1_냉기돌풍",
+            "parentId": 304080
+        },
+        {
+            "id": 1313,
+            "name": "룬골렘_수속성추가패턴2_물폭탄",
+            "parentId": 304080
+        },
+        {
+            "id": 1314,
+            "name": "룬골렘_지속성추가패턴1_뿌리묶기",
+            "parentId": 304080
+        },
+        {
+            "id": 1315,
+            "name": "룬골렘_지속성추가패턴2_밀쳐내기",
+            "parentId": 304080
+        },
+        {
+            "id": 1316,
+            "name": "룬골렘_공통패턴(불)",
+            "parentId": 304080
+        },
+        {
+            "id": 1317,
+            "name": "룬골렘_공통패턴(물)",
+            "parentId": 304080
+        },
+        {
+            "id": 1318,
+            "name": "룬골렘_공통패턴(풀)",
+            "parentId": 304080
+        },
+        {
+            "id": 1319,
+            "name": "수속성추가패턴3_하이드로펌프",
+            "parentId": 304080
+        },
+        {
+            "id": 1320,
+            "name": "룬골렘_불 스킬북에 붙어서 흡수_longAtk01_loop",
+            "parentId": 304080
+        },
+        {
+            "id": 1321,
+            "name": "룬골렘_물 스킬북에 붙어서 흡수_longAtk01_loop",
+            "parentId": 304080
+        },
+        {
+            "id": 1322,
+            "name": "룬골렘_풀 스킬북에 붙어서 흡수_longAtk01_loop",
+            "parentId": 304080
+        },
+        {
+            "id": 1323,
+            "name": "룬골렘_정화탄타겟투명npc 소환",
+            "parentId": 304080
+        },
+        {
+            "id": 1324,
+            "name": "룬골렘_스턴레이저",
+            "parentId": 304080
+        },
+        {
+            "id": 2101,
+            "name": "룬골렘_오른손 공격_atk01_1_분노",
+            "parentId": 304080
+        },
+        {
+            "id": 2102,
+            "name": "룬골렘_왼손 공격_atk01_2_분노",
+            "parentId": 304080
+        },
+        {
+            "id": 2103,
+            "name": "룬골렘_좌측 라운드어택_roundAtk01_분노",
+            "parentId": 304080
+        },
+        {
+            "id": 2104,
+            "name": "룬골렘_우측 라운드어택_roundAtk02_분노",
+            "parentId": 304080
+        },
+        {
+            "id": 2105,
+            "name": "룬골렘_돌채찍 공격_longAtk02_분노",
+            "parentId": 304080
+        },
+        {
+            "id": 2106,
+            "name": "룬골렘_앞으로 굴러서 공격_moveAtk01_Start+moveAtk01_Loop+moveAtk01_End_분노",
+            "parentId": 304080
+        },
+        {
+            "id": 2107,
+            "name": "룬골렘_오른손을 내밀어 팔의 바위를 회전시키면서 화염을 모아 화염탄 발사_longAtk01_Stat+longAtk01_End_분노 ",
+            "parentId": 304080
+        },
+        {
+            "id": 2108,
+            "name": "룬골렘_화염공격 발사체_분노",
+            "parentId": 304080
+        },
+        {
+            "id": 2109,
+            "name": "룬골렘_왼손콤보1시작_atk01_2+atk02_1_분노",
+            "parentId": 304080
+        },
+        {
+            "id": 2110,
+            "name": "룬골렘_왼손콤보1_reactionAtk_분노",
+            "parentId": 304080
+        },
+        {
+            "id": 2111,
+            "name": "룬골렘_왼손콤보2시작_atk01_2+atk02_1_분노",
+            "parentId": 304080
+        },
+        {
+            "id": 2112,
+            "name": "룬골렘_왼손콤보2_backAtk01_loop+backAtk01_end_분노",
+            "parentId": 304080
+        },
+        {
+            "id": 2113,
+            "name": "룬골렘_오른손콤보1시작_atk01_1+atk02_2_분노",
+            "parentId": 304080
+        },
+        {
+            "id": 2114,
+            "name": "룬골렘_오른손콤보1_heavyAtk01_Start+heavyAtk01_End_분노",
+            "parentId": 304080
+        },
+        {
+            "id": 2115,
+            "name": "룬골렘_오른손콤보2시작_atk01_1+atk02_3_분노",
+            "parentId": 304080
+        },
+        {
+            "id": 2116,
+            "name": "룬골렘_오른손콤보2_backAtk02_loop+backAtk02_end_분노",
+            "parentId": 304080
+        },
+        {
+            "id": 2117,
+            "name": "룬골렘_땅파고 나와서 찍기_longMove_Start+longMove_End_분노",
+            "parentId": 304080
+        },
+        {
+            "id": 2118,
+            "name": "룬골렘_전방채찍_longAtk02_분노",
+            "parentId": 304080
+        },
+        {
+            "id": 2119,
+            "name": "룬골렘_점프어택_longMove02_분노",
+            "parentId": 304080
+        },
+        {
+            "id": 2120,
+            "name": "룬골렘_앞찍뒷발차기_longMove02Start+backAtk02_end_분노",
+            "parentId": 304080
+        },
+        {
+            "id": 2121,
+            "name": "룬골렘_백무브_BackMove_분노",
+            "parentId": 304080
+        },
+        {
+            "id": 2151,
+            "name": "룬골렘_액티브무브어택_activeMove_Start+activeMove_Loop+activeMove_End_분노",
+            "parentId": 304080
+        }
+    ],
+    "2001": [
+        {
+            "id": 1301,
+            "name": "스킬북1 죽을 때 불장판",
+            "parentId": 742600
+        }
+    ],
+    "2002": [
+        {
+            "id": 1301,
+            "name": "스킬북2 죽을 때 물장판",
+            "parentId": 742610
+        }
+    ],
+    "2003": [
+        {
+            "id": 1301,
+            "name": "스킬북3 죽을 때 풀장판",
+            "parentId": 742620
+        }
+    ],
+    "2004": [
+        {
+            "id": 1301,
+            "name": "정화장판",
+            "parentId": null
+        }
+    ],
+    "2005": [
+        {
+            "id": 1301,
+            "name": "냉기돌풍 5인 누킹 발사체 생성 스킬",
+            "parentId": null
+        },
+        {
+            "id": 1302,
+            "name": "냉기돌풍 5인 누킹 발사체",
+            "parentId": null
+        }
+    ],
+    "2006": [
+        {
+            "id": 1406,
+            "name": "하이드로펌프 5인 누킹 타격",
+            "parentId": 611640
+        }
+    ],
+    "2007": [
+        {
+            "id": 1407,
+            "name": "레이저타격스킬",
+            "parentId": null
+        }
+    ],
+    "2008": [
+        {
+            "id": 1408,
+            "name": "2네임드 전투공간 제한용",
+            "parentId": null
+        }
+    ],
+    "3000": [
+        {
+            "id": 1101,
+            "name": "데빌_오른손공격_노말_atk01_start,end",
+            "parentId": 303540
+        },
+        {
+            "id": 1102,
+            "name": "데빌_왼손공격_노말_atk02_start,end",
+            "parentId": 303540
+        },
+        {
+            "id": 1103,
+            "name": "데빌_2연타공격_노말_atk01_combo01",
+            "parentId": 303540
+        },
+        {
+            "id": 1104,
+            "name": "데빌_오른손공격시작_노말_atk01_start",
+            "parentId": 303540
+        },
+        {
+            "id": 1105,
+            "name": "데빌_오른손공격종료_노말_atk01_end",
+            "parentId": 303540
+        },
+        {
+            "id": 1106,
+            "name": "데빌_오른손루프콤보_노말_atk01_loop,comboEnd02",
+            "parentId": 303540
+        },
+        {
+            "id": 1107,
+            "name": "데빌_왼손공격시작_노말_atk02_start",
+            "parentId": 303540
+        },
+        {
+            "id": 1108,
+            "name": "데빌_왼손공격종료_노말_atk02_end",
+            "parentId": 303540
+        },
+        {
+            "id": 1109,
+            "name": "데빌_왼손루프콤보시작_노말_atk02_comboStart",
+            "parentId": 303540
+        },
+        {
+            "id": 1110,
+            "name": "데빌_왼손루프콤보종료_노말_atk02_comboLoop,comboEnd",
+            "parentId": 303540
+        },
+        {
+            "id": 1111,
+            "name": "데빌_양손올려치기_노말_atk03_start,end",
+            "parentId": 303540
+        },
+        {
+            "id": 1112,
+            "name": "데빌_양손올려치기시작_노말_atk03_start",
+            "parentId": 303540
+        },
+        {
+            "id": 1113,
+            "name": "데빌_양손올려치기루프콤보_노말_atk03_loop,comboEnd",
+            "parentId": 303540
+        },
+        {
+            "id": 1114,
+            "name": "데빌_직선브레스_노말_atk04_start,loop,end",
+            "parentId": 303540
+        },
+        {
+            "id": 1115,
+            "name": "데빌_부채꼴브레스_노말_atk04_start,loop,comboEnd",
+            "parentId": 303540
+        },
+        {
+            "id": 1116,
+            "name": "데빌_좌측백어택시작_노말_backAtk01_start",
+            "parentId": 303540
+        },
+        {
+            "id": 1117,
+            "name": "데빌_좌측백어택종료_노말_backAtk01_end",
+            "parentId": 303540
+        },
+        {
+            "id": 1118,
+            "name": "데빌_좌측백어택콤보_노말_backAtk01_loop,comboEnd",
+            "parentId": 303540
+        },
+        {
+            "id": 1119,
+            "name": "데빌_우측백어택시작_노말_backAtk02_start",
+            "parentId": 303540
+        },
+        {
+            "id": 1120,
+            "name": "데빌_우측백어택종료_노말_backAtk02_end",
+            "parentId": 303540
+        },
+        {
+            "id": 1121,
+            "name": "데빌_우측백어택콤보_노말_backAtk02_loop,comboEnd",
+            "parentId": 303540
+        },
+        {
+            "id": 1122,
+            "name": "데빌_원거리 공격 시작_노말_longAtk02_start",
+            "parentId": 303540
+        },
+        {
+            "id": 1123,
+            "name": "데빌_원거리 공격(직선끌어오기)_노말_longAtk02_End01",
+            "parentId": 303540
+        },
+        {
+            "id": 1124,
+            "name": "데빌_원거리 공격(전체공격)_노말_longAtk02_End02",
+            "parentId": 303540
+        },
+        {
+            "id": 1125,
+            "name": "데빌_탄성촉수공격시작_노말_heavyAtk02_start",
+            "parentId": 303540
+        },
+        {
+            "id": 1126,
+            "name": "데빌_탄성촉수콤보(전방)_노말_heavyAtk02_comboEnd01",
+            "parentId": 303540
+        },
+        {
+            "id": 1127,
+            "name": "데빌_탄성촉수콤보(후방)_노말_heavyAtk02_loop,comboEnd02",
+            "parentId": 303540
+        },
+        {
+            "id": 1128,
+            "name": "데빌_탄성촉수공격종료_노말_heavyAtk02_end",
+            "parentId": 303540
+        },
+        {
+            "id": 1129,
+            "name": "데빌_3연타공격_노말_atk01,atk02,ultraAtk02",
+            "parentId": 303540
+        },
+        {
+            "id": 1130,
+            "name": "데빌_3연타 후 전후방공격_노말_ultraAtk02",
+            "parentId": 303540
+        },
+        {
+            "id": 1201,
+            "name": "데빌_1초 대기_wait",
+            "parentId": 303540
+        },
+        {
+            "id": 1301,
+            "name": "데빌_촉수 5인 누킹_longAtk01",
+            "parentId": 303540
+        },
+        {
+            "id": 1302,
+            "name": "데빌_가시발사_heavyAtk01",
+            "parentId": 303540
+        },
+        {
+            "id": 1303,
+            "name": "데빌_하트어택시작(우전방좌후방)_heartAtk01_start",
+            "parentId": 303540
+        },
+        {
+            "id": 1304,
+            "name": "데빌_하트어택루프(우전방좌후방)_heartAtk01_loop",
+            "parentId": 303540
+        },
+        {
+            "id": 1305,
+            "name": "데빌_하트어택타격(우전방좌후방)_heartAtk01_end",
+            "parentId": 303540
+        },
+        {
+            "id": 1306,
+            "name": "데빌_하트어택시작(좌전방우후방)_heartAtk02_start",
+            "parentId": 303540
+        },
+        {
+            "id": 1307,
+            "name": "데빌_하트어택루프(좌전방우후방)_heartAtk02_loop",
+            "parentId": 303540
+        },
+        {
+            "id": 1308,
+            "name": "데빌_하트어택타격(좌전방우후방)_heartAtk02_end",
+            "parentId": 303540
+        },
+        {
+            "id": 1309,
+            "name": "데빌_악마화 패턴 시작_ModeAlarm",
+            "parentId": 303540
+        },
+        {
+            "id": 1310,
+            "name": "데빌_악마화아무도안맞았을경우전체악마화1중첩_Wait",
+            "parentId": 303540
+        },
+        {
+            "id": 1311,
+            "name": "데빌_가시발사패턴흡수_heavyAtk01_start,loop",
+            "parentId": 303540
+        },
+        {
+            "id": 1312,
+            "name": "데빌_가시발사패턴그로기(중첩<15)_heavyAtk01_end",
+            "parentId": 303540
+        },
+        {
+            "id": 1313,
+            "name": "데빌_가시발사패턴폭발(15<중첩<30)_heavyAtk01_end",
+            "parentId": 303540
+        },
+        {
+            "id": 1314,
+            "name": "데빌_가시발사패턴폭발(중첩>30)_heavyAtk01_end",
+            "parentId": 303540
+        },
+        {
+            "id": 1315,
+            "name": "데빌_가시발사패턴시작포효_atk04_start,loop",
+            "parentId": 303540
+        },
+        {
+            "id": 2101,
+            "name": "데빌_오른손공격_분노_atk01_start,end",
+            "parentId": 303540
+        },
+        {
+            "id": 2102,
+            "name": "데빌_왼손공격_분노_atk02_start,end",
+            "parentId": 303540
+        },
+        {
+            "id": 2103,
+            "name": "데빌_2연타공격_분노_atk01_combo01",
+            "parentId": 303540
+        },
+        {
+            "id": 2104,
+            "name": "데빌_오른손공격시작_분노_atk01_start",
+            "parentId": 303540
+        },
+        {
+            "id": 2105,
+            "name": "데빌_오른손공격종료_분노_atk01_end",
+            "parentId": 303540
+        },
+        {
+            "id": 2106,
+            "name": "데빌_오른손루프콤보_분노_atk01_loop,comboEnd02",
+            "parentId": 303540
+        },
+        {
+            "id": 2107,
+            "name": "데빌_왼손공격시작_분노_atk02_start",
+            "parentId": 303540
+        },
+        {
+            "id": 2108,
+            "name": "데빌_왼손공격종료_분노_atk02_end",
+            "parentId": 303540
+        },
+        {
+            "id": 2109,
+            "name": "데빌_왼손루프콤보시작_분노_atk02_comboStart",
+            "parentId": 303540
+        },
+        {
+            "id": 2110,
+            "name": "데빌_왼손루프콤보종료_분노_atk02_comboLoop,comboEnd",
+            "parentId": 303540
+        },
+        {
+            "id": 2111,
+            "name": "데빌_양손올려치기_분노_atk03_start,end",
+            "parentId": 303540
+        },
+        {
+            "id": 2112,
+            "name": "데빌_양손올려치기시작_분노_atk03_start",
+            "parentId": 303540
+        },
+        {
+            "id": 2113,
+            "name": "데빌_양손올려치기루프콤보_분노_atk03_loop,comboEnd",
+            "parentId": 303540
+        },
+        {
+            "id": 2114,
+            "name": "데빌_직선브레스_분노_atk04_start,loop,end",
+            "parentId": 303540
+        },
+        {
+            "id": 2115,
+            "name": "데빌_부채꼴브레스_분노_atk04_start,loop,comboEnd",
+            "parentId": 303540
+        },
+        {
+            "id": 2116,
+            "name": "데빌_좌측백어택시작_분노_backAtk01_start",
+            "parentId": 303540
+        },
+        {
+            "id": 2117,
+            "name": "데빌_좌측백어택종료_분노_backAtk01_end",
+            "parentId": 303540
+        },
+        {
+            "id": 2118,
+            "name": "데빌_좌측백어택콤보_분노_backAtk01_combo",
+            "parentId": 303540
+        },
+        {
+            "id": 2119,
+            "name": "데빌_우측백어택시작_분노_backAtk02_start",
+            "parentId": 303540
+        },
+        {
+            "id": 2120,
+            "name": "데빌_우측백어택종료_분노_backAtk02_end",
+            "parentId": 303540
+        },
+        {
+            "id": 2121,
+            "name": "데빌_우측백어택콤보_분노_backAtk02_combo",
+            "parentId": 303540
+        },
+        {
+            "id": 2122,
+            "name": "데빌_원거리 공격 시작_분노_longAtk02_start",
+            "parentId": 303540
+        },
+        {
+            "id": 2123,
+            "name": "데빌_원거리 공격(직선끌어오기)_분노_longAtk02_End01",
+            "parentId": 303540
+        },
+        {
+            "id": 2124,
+            "name": "데빌_원거리 공격(전체공격)_분노_longAtk02_End02",
+            "parentId": 303540
+        },
+        {
+            "id": 2125,
+            "name": "데빌_탄성촉수공격시작_분노_heavyAtk02_start",
+            "parentId": 303540
+        },
+        {
+            "id": 2126,
+            "name": "데빌_탄성촉수콤보(전방)_분노_heavyAtk02_comboEnd01",
+            "parentId": 303540
+        },
+        {
+            "id": 2127,
+            "name": "데빌_탄성촉수콤보(후방)_분노_heavyAtk02_loop,comboEnd02",
+            "parentId": 303540
+        },
+        {
+            "id": 2128,
+            "name": "데빌_탄성촉수공격종료_분노_heavyAtk02_end",
+            "parentId": 303540
+        },
+        {
+            "id": 2129,
+            "name": "데빌_3연타공격_분노_atk01,atk02,ultraAtk02",
+            "parentId": 303540
+        },
+        {
+            "id": 2130,
+            "name": "데빌_3연타 후 전후방공격_분노_ultraAtk02",
+            "parentId": 303540
+        }
+    ],
+    "3001": [
+        {
+            "id": 1409,
+            "name": "투명NPC_촉수 5인 누킹 타격",
+            "parentId": 611640
+        }
+    ],
+    "3002": [
+        {
+            "id": 1410,
+            "name": "투명NPC_화염링",
+            "parentId": null
+        }
+    ],
+    "3003": [
+        {
+            "id": 1301,
+            "name": "보라구슬 소환 스킬",
+            "parentId": null
+        },
+        {
+            "id": 1302,
+            "name": "보라구슬",
+            "parentId": null
+        },
+        {
+            "id": 1411,
+            "name": "석상레이저",
+            "parentId": 611640
+        }
+    ],
+    "3004": [
+        {
+            "id": 1412,
+            "name": "투명NPC_악마화폭발투명NPC",
+            "parentId": 611640
+        }
+    ],
+    "5022": [
+        {
+            "id": 1101,
+            "name": "오칸_Atk01_Low(오른손 기본 공격_노멀 텐션)",
+            "parentId": 300650
+        },
+        {
+            "id": 1102,
+            "name": "오칸_Atk02_Low(더블 래리어트 회전 공격_노멀 텐션)",
+            "parentId": 300650
+        },
+        {
+            "id": 1103,
+            "name": "오칸_Atk03_Low(백점프 후 동료 공격력 버프_노멀 텐션)",
+            "parentId": 300650
+        },
+        {
+            "id": 1104,
+            "name": "오칸_Atk04_Low(폭탄 투척 공격_노멀 텐션)",
+            "parentId": 300650
+        },
+        {
+            "id": 1105,
+            "name": "오칸_Atk05_Low(오른손 길게 전진 공격_노멀 텐션)",
+            "parentId": 300650
+        },
+        {
+            "id": 1106,
+            "name": "오칸_돌진공격_UltraAtk01_노멀",
+            "parentId": 300650
+        },
+        {
+            "id": 1201,
+            "name": "오칸 50% 헉헉",
+            "parentId": 300650
+        },
+        {
+            "id": 1202,
+            "name": "오칸 20% 헉헉",
+            "parentId": 300650
+        },
+        {
+            "id": 1203,
+            "name": "오칸 사전동작_노말",
+            "parentId": 300650
+        },
+        {
+            "id": 1204,
+            "name": "오칸 어그로 체인지",
+            "parentId": 300650
+        },
+        {
+            "id": 1207,
+            "name": "오칸 왼쪽_게걸음",
+            "parentId": 300650
+        },
+        {
+            "id": 1208,
+            "name": "오칸 오른쪽 게걸음",
+            "parentId": 300650
+        },
+        {
+            "id": 1209,
+            "name": "오칸 jumpevasion01_Low(좌측 점프 회피_노멀 텐션)",
+            "parentId": 300650
+        },
+        {
+            "id": 1210,
+            "name": "오칸 jumpevasion02_Low(우측 점프 회피_노멀 텐션)",
+            "parentId": 300650
+        },
+        {
+            "id": 1301,
+            "name": "(인던전용)오칸_자폭_ATk03",
+            "parentId": 300650
+        },
+        {
+            "id": 1302,
+            "name": "(인던전용)오칸_이상상태디버프공격(공포)_Angry_Q",
+            "parentId": 300650
+        },
+        {
+            "id": 1303,
+            "name": "오칸_Atk04_(필드이벤트)알람있는 폭탄 투척",
+            "parentId": 300650
+        },
+        {
+            "id": 1304,
+            "name": "오칸_죽으면 전기구슬 뱉음_Wait",
+            "parentId": 300650
+        },
+        {
+            "id": 2101,
+            "name": "오칸_Atk01_오른손 기본 공격 (분노)",
+            "parentId": 300650
+        },
+        {
+            "id": 2102,
+            "name": "오칸_Atk02_더블 래리어트 회전 공격 (분노)",
+            "parentId": 300650
+        },
+        {
+            "id": 2103,
+            "name": "오칸_Atk03_Low_백점프 후 동료 공격력 버프 (분노)",
+            "parentId": 300650
+        },
+        {
+            "id": 2104,
+            "name": "오칸_Atk04 폭탄 투척 공격 (분노)",
+            "parentId": 300650
+        },
+        {
+            "id": 2105,
+            "name": "오칸_Atk05 오른손 길게 전진 공격 (분노)",
+            "parentId": 300650
+        },
+        {
+            "id": 2106,
+            "name": "오칸_돌진공격_UltraAtk01_분노",
+            "parentId": 300650
+        },
+        {
+            "id": 2201,
+            "name": "오칸 50% 헉헉 (분노)",
+            "parentId": 300650
+        },
+        {
+            "id": 2202,
+            "name": "오칸 20% 헉헉 (분노)",
+            "parentId": 300650
+        },
+        {
+            "id": 2203,
+            "name": "오칸 사전동작_분노)",
+            "parentId": 300650
+        },
+        {
+            "id": 2204,
+            "name": "오칸 어그로 체인지 (분노)",
+            "parentId": 300650
+        },
+        {
+            "id": 2207,
+            "name": "오칸 왼쪽_게걸음 (분노)",
+            "parentId": 300650
+        },
+        {
+            "id": 2208,
+            "name": "오칸 오른쪽 게걸음 (분노)",
+            "parentId": 300650
+        },
+        {
+            "id": 2209,
+            "name": "오칸 jumpevasion01_(좌측 점프 회피) (분노)",
+            "parentId": 300650
+        },
+        {
+            "id": 2210,
+            "name": "오칸 jumpevasion02_(우측 점프 회피) (분노)",
+            "parentId": 300650
+        }
+    ],
+    "5031": [
+        {
+            "id": 1301,
+            "name": "스킬북1 죽을 때 불장판",
+            "parentId": 742600
+        }
+    ],
+    "5032": [
+        {
+            "id": 1301,
+            "name": "스킬북2 죽을 때 물장판",
+            "parentId": 742610
+        }
+    ],
+    "5033": [
+        {
+            "id": 1301,
+            "name": "스킬북3 죽을 때 풀장판",
+            "parentId": 742620
+        }
+    ]
+}

@@ -1,0 +1,560 @@
+{
+    "1000": [
+        {
+            "id": 101,
+            "name": "Atk01_평타1R",
+            "parentId": 545090
+        },
+        {
+            "id": 102,
+            "name": "Atk01_평타1_연계용",
+            "parentId": 545090
+        },
+        {
+            "id": 103,
+            "name": "Atk02_평타2R",
+            "parentId": 545090
+        },
+        {
+            "id": 104,
+            "name": "Atk02_평타2_연계용",
+            "parentId": 545090
+        },
+        {
+            "id": 105,
+            "name": "Atk03_평타3",
+            "parentId": 545090
+        },
+        {
+            "id": 106,
+            "name": "Atk04_ComboAtk01_2회 회전",
+            "parentId": 545090
+        },
+        {
+            "id": 108,
+            "name": "Atk06_ComboAtk02_노말",
+            "parentId": 545090
+        },
+        {
+            "id": 109,
+            "name": "JumpAtk01_노말",
+            "parentId": 545090
+        },
+        {
+            "id": 111,
+            "name": "HeavyAtk01_대지치기_넉백",
+            "parentId": 545090
+        },
+        {
+            "id": 201,
+            "name": "모아치기_짧은_베리에이션",
+            "parentId": 545090
+        },
+        {
+            "id": 202,
+            "name": "모아치기_중간_베리에이션",
+            "parentId": 545090
+        },
+        {
+            "id": 203,
+            "name": "모아치기_풀차징_베리에이션",
+            "parentId": 545090
+        },
+        {
+            "id": 204,
+            "name": "모아치기_풀차징_베리에이션_분노용_2타",
+            "parentId": 545090
+        },
+        {
+            "id": 205,
+            "name": "소용돌이_짧은_베리에이션",
+            "parentId": 545090
+        },
+        {
+            "id": 206,
+            "name": "소용돌이_중간_베리에이션",
+            "parentId": 545090
+        },
+        {
+            "id": 207,
+            "name": "소용돌이_풀차징_베리에이션",
+            "parentId": 545090
+        },
+        {
+            "id": 208,
+            "name": "MovingCharge_공용",
+            "parentId": 545090
+        },
+        {
+            "id": 209,
+            "name": "Chrage01_공용",
+            "parentId": 545090
+        },
+        {
+            "id": 210,
+            "name": "Chrage02_공용",
+            "parentId": 545090
+        },
+        {
+            "id": 211,
+            "name": "Icebreak",
+            "parentId": 545090
+        },
+        {
+            "id": 212,
+            "name": "Charge_Cancle01_Loop",
+            "parentId": 545090
+        },
+        {
+            "id": 213,
+            "name": "Charge_Cancle01_Move",
+            "parentId": 545090
+        },
+        {
+            "id": 214,
+            "name": "Charge_Cancle01_Atk",
+            "parentId": 545090
+        },
+        {
+            "id": 215,
+            "name": "Charge_Cancle02_Loop",
+            "parentId": 545090
+        },
+        {
+            "id": 216,
+            "name": "Charge_Cancle02_Move",
+            "parentId": 545090
+        },
+        {
+            "id": 217,
+            "name": "Charge_Cancle02_Atk",
+            "parentId": 545090
+        },
+        {
+            "id": 220,
+            "name": "모아치기_풀차징_베리에이션[노말_추후변경]",
+            "parentId": 545090
+        },
+        {
+            "id": 221,
+            "name": "모아치기_풀차징_베리에이션[분노_추후변경]",
+            "parentId": 545090
+        },
+        {
+            "id": 301,
+            "name": "Rage_L_Atk01",
+            "parentId": 545090
+        },
+        {
+            "id": 302,
+            "name": "Rage_L_Atk01_연계용",
+            "parentId": 545090
+        },
+        {
+            "id": 303,
+            "name": "Rage_R_Atk02",
+            "parentId": 545090
+        },
+        {
+            "id": 304,
+            "name": "Rage_R_Atk02_연계용",
+            "parentId": 545090
+        },
+        {
+            "id": 305,
+            "name": "Rage_Dual_Atk01",
+            "parentId": 545090
+        },
+        {
+            "id": 306,
+            "name": "Rage_Whirlwind_Start",
+            "parentId": 545090
+        },
+        {
+            "id": 307,
+            "name": "Rage_Whirlwind_Shot_Loop_[1106연계]",
+            "parentId": 545090
+        },
+        {
+            "id": 308,
+            "name": "Rage_Whirlwind_End_[1107연계]",
+            "parentId": 545090
+        },
+        {
+            "id": 309,
+            "name": "Rage_Dual_Atk01",
+            "parentId": 545090
+        },
+        {
+            "id": 310,
+            "name": "Rage_Dual_Atk02",
+            "parentId": 545090
+        },
+        {
+            "id": 311,
+            "name": "Rage_Dual_Atk03",
+            "parentId": 545090
+        },
+        {
+            "id": 312,
+            "name": "Rage_RushAtk01",
+            "parentId": 545090
+        },
+        {
+            "id": 313,
+            "name": "Rage_RushAtk02",
+            "parentId": 545090
+        },
+        {
+            "id": 314,
+            "name": "Rage_RushAtk03",
+            "parentId": 545090
+        },
+        {
+            "id": 315,
+            "name": "Rage_RushAtk04",
+            "parentId": 545090
+        },
+        {
+            "id": 316,
+            "name": "Rage_RushAtk05",
+            "parentId": 545090
+        },
+        {
+            "id": 317,
+            "name": "Rage_RushAtk06",
+            "parentId": 545090
+        },
+        {
+            "id": 318,
+            "name": "Rage_RushAtk07",
+            "parentId": 545090
+        },
+        {
+            "id": 319,
+            "name": "Rage_RushAtk08",
+            "parentId": 545090
+        },
+        {
+            "id": 320,
+            "name": "RageModeOff_스크립트용",
+            "parentId": 545090
+        },
+        {
+            "id": 321,
+            "name": "Rage_Aggro_01_정방향",
+            "parentId": 545090
+        },
+        {
+            "id": 322,
+            "name": "Rage_Aggro_02_역방향",
+            "parentId": 545090
+        },
+        {
+            "id": 323,
+            "name": "Rage_RandomAtk01_공용",
+            "parentId": 545090
+        },
+        {
+            "id": 324,
+            "name": "Rage_Aggro_65%_공용",
+            "parentId": 545090
+        },
+        {
+            "id": 325,
+            "name": "Rage_RandomAtk02_1%전용",
+            "parentId": 545090
+        },
+        {
+            "id": 501,
+            "name": "HP1%_무적_보호막_시전",
+            "parentId": 545090
+        },
+        {
+            "id": 502,
+            "name": "폭주_쉐잎변경_1%",
+            "parentId": 545090
+        },
+        {
+            "id": 503,
+            "name": "UltraAtk01_광역_밀치기",
+            "parentId": 545090
+        },
+        {
+            "id": 505,
+            "name": "UltraAtk02_대상_당기기_1%",
+            "parentId": 545090
+        },
+        {
+            "id": 506,
+            "name": "주시_노말 원거리타겟팅",
+            "parentId": 545090
+        },
+        {
+            "id": 507,
+            "name": "거리랜타_끌어오기",
+            "parentId": 545090
+        },
+        {
+            "id": 508,
+            "name": "HeavyAtk05_근중원_01",
+            "parentId": 545090
+        },
+        {
+            "id": 509,
+            "name": "HeavyAtk05_원중근_01",
+            "parentId": 545090
+        },
+        {
+            "id": 510,
+            "name": "보스강화_공용A",
+            "parentId": 545090
+        },
+        {
+            "id": 511,
+            "name": "RotateAtk01_Shot",
+            "parentId": 545090
+        },
+        {
+            "id": 512,
+            "name": "RotateAtk01_Start",
+            "parentId": 545090
+        },
+        {
+            "id": 513,
+            "name": "보스강화_공용B",
+            "parentId": 545090
+        },
+        {
+            "id": 514,
+            "name": "보스강화_공용C",
+            "parentId": 545090
+        },
+        {
+            "id": 515,
+            "name": "주시_노말 근거리타겟팅",
+            "parentId": 545090
+        },
+        {
+            "id": 516,
+            "name": "HeavyAtk05_근중원_01",
+            "parentId": 545090
+        },
+        {
+            "id": 517,
+            "name": "HeavyAtk05_원중근_01",
+            "parentId": 545090
+        },
+        {
+            "id": 518,
+            "name": "폭주_쉐잎변경_65%",
+            "parentId": 545090
+        },
+        {
+            "id": 519,
+            "name": "폭주_쉐잎변경_35%",
+            "parentId": 545090
+        },
+        {
+            "id": 520,
+            "name": "UltraAtk02_대상_당기기_65%",
+            "parentId": 545090
+        },
+        {
+            "id": 521,
+            "name": "UltraAtk02_대상_당기기_35%",
+            "parentId": 545090
+        }
+    ],
+    "1001": [
+        {
+            "id": 301,
+            "name": "Rage_L_Atk01",
+            "parentId": null
+        },
+        {
+            "id": 302,
+            "name": "Rage_L_Atk01_연계용",
+            "parentId": null
+        },
+        {
+            "id": 303,
+            "name": "Rage_R_Atk02",
+            "parentId": null
+        },
+        {
+            "id": 304,
+            "name": "Rage_R_Atk02_연계용",
+            "parentId": null
+        },
+        {
+            "id": 305,
+            "name": "Rage_Dual_Atk01",
+            "parentId": null
+        },
+        {
+            "id": 306,
+            "name": "Rage_Whirlwind_Start",
+            "parentId": null
+        },
+        {
+            "id": 307,
+            "name": "Rage_Whirlwind_Shot_Loop_[1106연계]",
+            "parentId": null
+        },
+        {
+            "id": 308,
+            "name": "Rage_Whirlwind_End_[1107연계]",
+            "parentId": null
+        },
+        {
+            "id": 309,
+            "name": "Rage_Dual_Atk01",
+            "parentId": null
+        },
+        {
+            "id": 310,
+            "name": "Rage_Dual_Atk02",
+            "parentId": null
+        },
+        {
+            "id": 311,
+            "name": "Rage_Dual_Atk03",
+            "parentId": null
+        },
+        {
+            "id": 312,
+            "name": "Rage_RushAtk01",
+            "parentId": null
+        }
+    ],
+    "1002": [
+        {
+            "id": 101,
+            "name": "ScreamingGiant_직선형장거리공격_Atk01_노멀/분노공용",
+            "parentId": 600980
+        },
+        {
+            "id": 102,
+            "name": "불뿜기공격_일직선_광범위",
+            "parentId": null
+        },
+        {
+            "id": 104,
+            "name": "발사체_A",
+            "parentId": null
+        },
+        {
+            "id": 105,
+            "name": "발사체_B",
+            "parentId": null
+        },
+        {
+            "id": 106,
+            "name": "전방 발사체공격_A",
+            "parentId": null
+        },
+        {
+            "id": 107,
+            "name": "전방 발사체공격_B",
+            "parentId": null
+        },
+        {
+            "id": 108,
+            "name": "발사체_C",
+            "parentId": 600980
+        },
+        {
+            "id": 109,
+            "name": "전방 발사체공격_C",
+            "parentId": 600980
+        },
+        {
+            "id": 201,
+            "name": "ScreamingGiant_전투대기_Wait_노멀/분노공용",
+            "parentId": 600980
+        }
+    ],
+    "1003": [
+        {
+            "id": 505,
+            "name": "더미스킬_20초지속",
+            "parentId": null
+        }
+    ],
+    "1004": [
+        {
+            "id": 206,
+            "name": "터져라_스폰스킬용_정방향",
+            "parentId": 611410
+        }
+    ],
+    "1005": [
+        {
+            "id": 333,
+            "name": "TNPC_RandomMove",
+            "parentId": null
+        }
+    ],
+    "1011": [
+        {
+            "id": 207,
+            "name": "거인_발사체_폭발용_정방향",
+            "parentId": null
+        }
+    ],
+    "1012": [
+        {
+            "id": 208,
+            "name": "거인_발사체_폭발용_정방향",
+            "parentId": null
+        }
+    ],
+    "1050": [
+        {
+            "id": 111,
+            "name": "가두기용_20초지속",
+            "parentId": 611410
+        }
+    ],
+    "1051": [
+        {
+            "id": 112,
+            "name": "얼음장판_300초지속",
+            "parentId": 611410
+        }
+    ],
+    "1052": [
+        {
+            "id": 209,
+            "name": "터져라_스폰스킬용_역방향",
+            "parentId": 611410
+        }
+    ],
+    "1054": [
+        {
+            "id": 113,
+            "name": "TNPC_장판_데칼표시용",
+            "parentId": null
+        },
+        {
+            "id": 114,
+            "name": "TNPC_데칼용_PC추격",
+            "parentId": null
+        }
+    ],
+    "1055": [
+        {
+            "id": 115,
+            "name": "가두기용_20초지속",
+            "parentId": 611410
+        }
+    ],
+    "1057": [
+        {
+            "id": 116,
+            "name": "가두기용_20초지속",
+            "parentId": 611410
+        }
+    ]
+}

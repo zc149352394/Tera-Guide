@@ -1,0 +1,231 @@
+{
+    "1000": [
+        {
+            "id": 101,
+            "name": "칼리가르_기본공격1_우좌베기_atk01[start][end01]_normal",
+            "parentId": 304340
+        },
+        {
+            "id": 102,
+            "name": "칼리가르_기본공격1_X자_atk01[end02]_normal",
+            "parentId": 304340
+        },
+        {
+            "id": 103,
+            "name": "칼리가르_기본공격1_우좌베기+X자_atk01[start][end02]_normal",
+            "parentId": 304340
+        },
+        {
+            "id": 104,
+            "name": "칼리가르_기본공격2_올려치기_atk02[start][end01]_normal",
+            "parentId": 304340
+        },
+        {
+            "id": 105,
+            "name": "칼리가르_기본공격3_어퍼컷_atk03[start]_normal",
+            "parentId": 304340
+        },
+        {
+            "id": 106,
+            "name": "칼리가르_기본공격3_어퍼컷 이후 내려찍기_atk03[end]_normal",
+            "parentId": 304340
+        },
+        {
+            "id": 107,
+            "name": "칼리가르_원거리공격1_톤파던지기_LongAtk01_[start][loop][end]_normal",
+            "parentId": 304340
+        },
+        {
+            "id": 108,
+            "name": "칼리가르_원거리공격1_톤파던지기_LongAtk01_발사체_normal",
+            "parentId": 304340
+        },
+        {
+            "id": 109,
+            "name": "칼리가르_광역1_발로찍기_UltraAtk01[start]_normal",
+            "parentId": 304340
+        },
+        {
+            "id": 110,
+            "name": "칼리가르_광역2_점프 제자리찍기_터져라_UltraAtk02[start][end]_DS_normal",
+            "parentId": 304340
+        },
+        {
+            "id": 111,
+            "name": "칼리가르_견제1_대상자지정 점프 추적 내려찍기_LongMove[start][end]_normal",
+            "parentId": 304340
+        },
+        {
+            "id": 112,
+            "name": "칼리가르_견제2_니킥 후 돌려차기_HeavyAtk02[start][end]_normal",
+            "parentId": 304340
+        },
+        {
+            "id": 113,
+            "name": "칼리가르_기본공격4_우좌2연타베기_LongAtk02[start][loop]_normal",
+            "parentId": 304340
+        },
+        {
+            "id": 114,
+            "name": "칼리가르_광역3_양손 제자리내려찍기_LongAtk02[end]_normal",
+            "parentId": 304340
+        },
+        {
+            "id": 115,
+            "name": "칼리가르_광역4_연속 누킹_modealarm[start][loop][end]_normal",
+            "parentId": 304340
+        },
+        {
+            "id": 116,
+            "name": "칼리가르_광역4_연속 누킹_modealarm[start][loop][end]_발사체_normal",
+            "parentId": 304340
+        },
+        {
+            "id": 117,
+            "name": "칼리가르_광역4_연속 누킹_modealarm[start][loop][end]_큰 발사체_normal",
+            "parentId": 304340
+        },
+        {
+            "id": 118,
+            "name": "칼리가르_기본공격2_올려치고 전방찌르기_atk02[start][end02]_normal",
+            "parentId": 304340
+        },
+        {
+            "id": 119,
+            "name": "칼리가르_광역1 회전공격_UltraAtk01_[end]_normal",
+            "parentId": 304340
+        },
+        {
+            "id": 120,
+            "name": "칼리가르_기본공격5_전방빠르게찌르기_Longatk02[Start][Loop]_normal",
+            "parentId": 304340
+        },
+        {
+            "id": 121,
+            "name": "칼리가르_핵심액션1_시계방향돌고 발로찍기_Heavyatk01[start01]_normal",
+            "parentId": 304340
+        },
+        {
+            "id": 122,
+            "name": "칼리가르_핵심액션2_앞 뒤 벽력장_좌_Heavyatk01[combo01]_normal",
+            "parentId": 304340
+        },
+        {
+            "id": 123,
+            "name": "칼리가르_핵심액션3_후방타격_Heavyatk01[end01A]_DS_normal",
+            "parentId": 304340
+        },
+        {
+            "id": 124,
+            "name": "칼리가르_핵심액션1_반시계방향돌고 발로찍기_Heavyatk01[start02]_normal",
+            "parentId": 304340
+        },
+        {
+            "id": 125,
+            "name": "칼리가르_핵심액션2_앞 뒤 벽력장_우_Heavyatk01[combo02]_normal",
+            "parentId": 304340
+        },
+        {
+            "id": 126,
+            "name": "칼리가르_핵심액션3_후방타격_Heavyatk01[end02A]_DS_normal",
+            "parentId": 304340
+        },
+        {
+            "id": 127,
+            "name": "칼리가르_핵심액션4_막타_근중원_UltraAtk02[End]_normal",
+            "parentId": 304340
+        },
+        {
+            "id": 128,
+            "name": "칼리가르_핵심액션4_막타_원중근_UltraAtk02[End]_normal",
+            "parentId": 304340
+        },
+        {
+            "id": 301,
+            "name": "칼리가르_핵심액션5_범위내 적없을 시 페널티",
+            "parentId": 304340
+        },
+        {
+            "id": 302,
+            "name": "칼리가르_견제3_업화_modealarm[start][end]",
+            "parentId": 304340
+        },
+        {
+            "id": 303,
+            "name": "칼리가르_견제3_업화_modealarm[start][end]_발사체",
+            "parentId": 304340
+        },
+        {
+            "id": 304,
+            "name": "칼리가르_전멸기_축해대응 시작_LongAtk01[start][loop]",
+            "parentId": 304340
+        },
+        {
+            "id": 305,
+            "name": "칼리가르_전멸기_축해대응 실패 전멸기 발동_UltraAtk02[end]",
+            "parentId": 304340
+        },
+        {
+            "id": 306,
+            "name": "칼리가르_전멸기_축해대응 성공_리액션_Reaction[start][loop][end]",
+            "parentId": 304340
+        },
+        {
+            "id": 307,
+            "name": "칼리가르_인원체크_유저 사망시 자신 강화",
+            "parentId": null
+        }
+    ],
+    "1001": [
+        {
+            "id": 310,
+            "name": "투명NPC_터져라누킹용",
+            "parentId": 320210
+        }
+    ],
+    "1002": [
+        {
+            "id": 101,
+            "name": "칼리가르_핵심액션3_후방타격_투명NPC_A",
+            "parentId": 320220
+        }
+    ],
+    "1003": [
+        {
+            "id": 102,
+            "name": "칼리가르_핵심액션3_후방타격_투명NPC_B",
+            "parentId": 320220
+        }
+    ],
+    "1004": [
+        {
+            "id": 101,
+            "name": "투명NPC_업화 걸어 주기",
+            "parentId": 320240
+        },
+        {
+            "id": 102,
+            "name": "투명NPC_업화 걸어 주기_발사체",
+            "parentId": 320240
+        },
+        {
+            "id": 103,
+            "name": "투명NPC_업화 걸어 주기_발사체(마지막에 이펙트 지우기용)",
+            "parentId": 320240
+        }
+    ],
+    "1006": [
+        {
+            "id": 318,
+            "name": "아크데바 마석 연구소 액체(독장판)",
+            "parentId": 611640
+        }
+    ],
+    "1007": [
+        {
+            "id": 101,
+            "name": "칼리가르_핵심액션3_후방타격_투명NPC_A",
+            "parentId": 320220
+        }
+    ]
+}
