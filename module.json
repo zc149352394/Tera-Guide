@@ -1,0 +1,15 @@
+{
+    "name": "tera-guide",
+    "options": {
+        "niceName": "副本提示",
+        "cliName": "副本提示",
+        "guiName": "Tera-Guide",
+        "reloadable": true
+    },
+    "author": "ZC",
+    "description": "TERA副本提示 队长通知",
+    "servers": [
+        "https://raw.githubusercontent.com/zc149352394/TEAR-Guide/main/"
+    ],
+    "version": "92.03 - 109.02"
+}
