@@ -167,7 +167,7 @@ module.exports = function TeraGuide(mod) {
 	function sDungeonEventGage(e) {
 		// ML_吹牛
 		if (h_ID==470 && t_ID==1000) {
-			tellingTruth = !(bossBuffs.includes(e.curGage%10) && bossBuffs.includes(Math.floor(e.curGage/10)))
+			tellingTruth = !(bossBuffs.includes(e.curGage%10) || bossBuffs.includes(Math.floor(e.curGage/10)))
 		}
 	}
 	function sBossGageInfo(e) {
