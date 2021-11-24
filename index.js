@@ -416,13 +416,13 @@ module.exports = function TeraGuide(mod) {
 		}
 		if (mod.game.me.is(e.target)) {
 			switch (e.id) {
-				case 97000042: // RM 黑暗利波的憤怒-红
-				case 97000043: // RM 血腥獵獸的憤怒-蓝
-					break
 				case 30209101: // SI_金鳞船 亡靈閃電的襲擊
 				case 30209102: // SI_金鳞船 海洋魔女的氣息
 					mod.setTimeout(() => { sendMsg(bossZone.TipMsg[2], 25) }, 2000)
 					break
+				case 97000042: // RM 黑暗利波的憤怒-红
+				case 97000043: // RM 血腥獵獸的憤怒-蓝
+				
 				case 30231000: // AQ_1王 紅色詛咒氣息
 				case 30321000:
 				case 30231001: // AQ_1王 藍色詛咒氣息
