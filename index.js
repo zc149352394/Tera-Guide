@@ -19,6 +19,8 @@ module.exports = function TeraGuide(mod) {
 	// ML
 	let bossBuffs = []      // 3 6 9
 	let tellingTruth = true // 实话/假话
+	// HH
+	let Black_Red = 0 // 左黑右红
 	// VS
 	let checked  = false // 鉴定
 	let inverted = false // 正常状态 / 进入灵魂
@@ -40,7 +42,7 @@ module.exports = function TeraGuide(mod) {
 	// CK
 	let bossQuest = null // 感受愤怒-3026004-3126004 感受恐惧-3026005-3126005
 	
-	mod.command.add("guide", {
+	mod.command.add(["guide", "提示"], {
 		$none() {
 			enabled = !enabled
 			enabled ? load() : unload()
@@ -84,6 +86,8 @@ module.exports = function TeraGuide(mod) {
 		// ML
 		bossBuffs    = []
 		tellingTruth = true
+		// HH
+		Black_Red = 0
 		// VS_3王
 		checked  = false
 		inverted = false
@@ -196,19 +200,20 @@ module.exports = function TeraGuide(mod) {
 		// DR_6王
 		if (e.huntingZoneId==434 && e.templateId==6002) sendMsg(bossZone.TipMsg[8], 25)
 		// HH-P3 破坏的神界关口
-		if (e.huntingZoneId==950 && [3103, 3104].includes(e.templateId)) {
-			sendMsg((bossZone.TipMsg[0] + `|${e.templateId}`), 25)
-		}
-		if (e.huntingZoneId==950 && [3001, 3105, 3005, 3107].includes(e.templateId)) {
-			sendMsg((bossZone.TipMsg[1] + `|${e.templateId}`), 25)
-		}
-		if (e.huntingZoneId==950 && [3002, 3106, 3006, 3108].includes(e.templateId)) {
-			sendMsg((bossZone.TipMsg[2] + `|${e.templateId}`), 25)
-		}
-		if (e.huntingZoneId==950 && [
-			3007, 3009, 3109, 3111,
-			3008, 3110, 3010, 3112
-		].includes(e.templateId)) sendMsg(bossZone.TipMsg[3])
+		// 火墙·右
+		if (e.huntingZoneId==950 && [3001, 3005].includes(e.templateId)) sendMsg(bossZone.TipMsg[1], 25)
+		// 火墙·左
+		if (e.huntingZoneId==950 && [3002, 3006].includes(e.templateId)) sendMsg(bossZone.TipMsg[2], 25)
+		// 火墙·下
+		if (e.huntingZoneId==950 && [3103, 3105, 3107].includes(e.templateId)) sendMsg(bossZone.TipMsg[3], 25)
+		// 火墙·上
+		if (e.huntingZoneId==950 && [3104, 3106, 3108].includes(e.templateId)) sendMsg(bossZone.TipMsg[4], 25)
+		// 红球
+		if (e.huntingZoneId==950 && e.templateId==3016) sendMsg(bossZone.TipMsg[5], 25)
+		// 黑球
+		if (e.huntingZoneId==950 && e.templateId==3017) sendMsg(bossZone.TipMsg[6], 25)
+		// 3007, 3009, 3109, 3111, 属性墙1
+		// 3008, 3110, 3010, 3112, 属性墙2
 	}
 	function sActionStage(e) {
 		if (!b_ID || b_ID!=e.gameId || e.stage!=0 || !bossZone || !bossZone[e.templateId]) return
@@ -243,6 +248,11 @@ module.exports = function TeraGuide(mod) {
 		// RM_1王 300860
 		if ([770, 970].includes(h_ID) && t_ID==1000) {
 			if (s_ID==306 || s_ID==307) sendMsg((myDeBuff?bossSkill.tip[(s_ID+myDeBuff)%2]:"X"), 25)
+		}
+		// HH-P3 304020
+		if (h_ID==950 && t_ID==3000) {
+			if (s_ID==111) sendMsg(bossSkill.tip[Black_Red])
+			if (s_ID==134 || s_ID==135) Black_Red = s_ID % 2
 		}
 		// AA_3王 303440
 		if ([720, 920, 3017, 3029].includes(h_ID) && t_ID==3000 && s_ID==104) { // 后砸技能判定
@@ -328,8 +338,8 @@ module.exports = function TeraGuide(mod) {
 		// 9950126 30s后狂暴化
 		// 9950028, 29, 30, 31, 40貝勒古斯激起血之波浪。
 		// 9950032貝勒古斯施展血之波浪。
-		// 9950060貝勒古斯激起屬性的波浪。
-		if (msg_Id==9950062) sendMsg(`打球`) // 9950062後方聚集了不吉利的氣息。
+		if (msg_Id==9950060) sendMsg(bossZone.TipMsg[0], 25) // 貝勒古斯激起屬性的波浪。
+		// 9950062後方聚集了不吉利的氣息。
 		// DRC_1王 能量填充完畢..
 		if (msg_Id==9783103 || msg_Id==9983103 || msg_Id==3018103) sendMsg(bossZone.TipMsg)
 	}
@@ -364,7 +374,7 @@ module.exports = function TeraGuide(mod) {
 		if ([78151, 98151, 78152, 98152].includes(msg_Id)) { // 进入灵魂 / 挺能撑的
 			inverted = (msg_Id==78151 || msg_Id==98151)
 			nextMsg = inverted?(nextMsg+3):(nextMsg-3)
-			sendMsg((inverted?"Into -> ":"Out  -> " + bossZone.TipMsg[nextMsg]), 25)
+			sendMsg(((inverted?"Into -> ":"Out  -> ") + bossZone.TipMsg[nextMsg]), 25)
 		}
 		// RK_3王 上级鉴定 执行协议:  1近 2远 3全
 		if ([935301, 935302, 935303, 3034301, 3034302, 3034303].includes(msg_Id)) {

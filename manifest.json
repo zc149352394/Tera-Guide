@@ -1,9 +1,9 @@
 {
 	"files": {
-		"index.js": "91ff9203b90799da228b879da8a98be1dafeb54206c1426a75d67ed19456800f",
+		"index.js": "56e7e3b0e4bfd0254de5b799478ec45957c718c80f62bd0a1d0baeed707aea60",
 		"LICENSE": "6326ae60dd78c85b1f2f6ff308ef1615ff939323270d838e8ebab20f5de1a8c5",
 		"module.json": "86f879d439fe8abb2cb9e5d899940d00770ddc971c881d6c081f464aa7b11ccd",
 		"README.md": "a9580479020413a5a2be4ceae425ac91fa75118b5172268e8a3b6012245de1a6",
-		"settings_custom.js": "052824bbebfe7681d4b4b59ff0cffc566a3b500bd87c31dbc3f79418d0cc8b35"
+		"settings_custom.js": "f8fbc14f15c775bd4d99eb0701bdd41c20927d1bf90eae407ee69171e57dd0ff"
 	}
 }
