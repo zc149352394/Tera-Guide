@@ -246,7 +246,7 @@ module.exports = function TeraGuide(mod) {
 		}
 		// RM_1王 300860
 		if ([770, 970].includes(h_ID) && t_ID==1000) {
-			if (s_ID==306 || s_ID==307) sendMsg((myDeBuff?bossSkill.tip[(s_ID+myDeBuff)%2]:"X"), 25)
+			if (s_ID==306 || s_ID==307) sendMsg((myDeBuff?bossSkill.tip[(s_ID+myDeBuff+(h_ID==970))%2]:"X"), 25)
 		}
 		// HH-P3 304020
 		if (h_ID==950 && t_ID==3000) {
@@ -430,9 +430,9 @@ module.exports = function TeraGuide(mod) {
 					mod.setTimeout(() => { sendMsg(bossZone.TipMsg[2], 25) }, 2000)
 					break
 				case 97000042: // RM 黑暗利波的憤怒-红
-				case 97000057: e.id += 1
+				case 97000057:
 				case 97000043: // RM 血腥獵獸的憤怒-蓝
-				case 97000058: e.id += 1
+				case 97000058:
 				
 				case 30231000: // AQ_1王 紅色詛咒氣息
 				case 30321000:
