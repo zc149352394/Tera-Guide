@@ -220,7 +220,6 @@ module.exports = function TeraGuide(mod) {
 		h_ID = e.skill.huntingZoneId
 		t_ID = e.templateId
 		s_ID = e.skill.id % 1000 // 愤怒简化 取1000余数运算
-		// if (debug) mod.command.message(`${h_ID}_${t_ID} - ${s_ID}`)
 		
 		var full = e.skill.id
 		var bossSkill = null
@@ -431,7 +430,9 @@ module.exports = function TeraGuide(mod) {
 					mod.setTimeout(() => { sendMsg(bossZone.TipMsg[2], 25) }, 2000)
 					break
 				case 97000042: // RM 黑暗利波的憤怒-红
+				case 97000057: e.id += 1
 				case 97000043: // RM 血腥獵獸的憤怒-蓝
+				case 97000058: e.id += 1
 				
 				case 30231000: // AQ_1王 紅色詛咒氣息
 				case 30321000:
@@ -464,7 +465,9 @@ module.exports = function TeraGuide(mod) {
 		if (mod.game.me.is(e.target)) {
 			switch (e.id) {
 				case 97000042:
+				case 97000057:
 				case 97000043:
+				case 97000058:
 				
 				case 30231000:
 				case 30321000:
