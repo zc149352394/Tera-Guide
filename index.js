@@ -157,6 +157,9 @@ module.exports = function TeraGuide(mod) {
 		}
 	}
 	mod.dispatch.addDefinition('S_DUNGEON_EVENT_GAGE', 2, [
+		['name', 'refString'],
+		['message', 'refString'],
+		
 		['unk1', 'int16'],
 		['unk2', 'int16'],
 		['type', 'int32'],
