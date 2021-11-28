@@ -219,7 +219,8 @@ module.exports = function TeraGuide(mod) {
 		// 3008, 3110, 3010, 3112, 属性墙2
 	}
 	function sActionStage(e) {
-		if (!b_ID || b_ID!=e.gameId || e.stage!=0 || !bossZone || !bossZone[e.templateId]) return
+		// if (!b_ID || b_ID!=e.gameId || e.stage!=0 || !bossZone || !bossZone[e.templateId]) return
+		if (!bossZone || !bossZone[e.templateId] || e.stage!=0) return
 		h_ID = e.skill.huntingZoneId
 		t_ID = e.templateId
 		s_ID = e.skill.id % 1000 // 愤怒简化 取1000余数运算
@@ -236,8 +237,10 @@ module.exports = function TeraGuide(mod) {
 		}
 		if (bossSkill.txt) mod.setTimeout(sendMsg, bossSkill.timeout, bossSkill.txt)
 		
-		
-		
+		// DR_5王 301850
+		if (h_ID==434 && t_ID==5000) {
+			if (s_ID==124) sendMsg(bossSkill.tip[enraged+0])
+		}
 		// DW_2王 303360
 		if (h_ID==466 && t_ID==46602) {
 			if (s_ID==303) sendMsg((bossSkill.tip + bossZone.TipMsg[ballColor]), 25) // 鉴定
@@ -282,8 +285,11 @@ module.exports = function TeraGuide(mod) {
 		if ([3026, 3126].includes(h_ID) && t_ID==1000) {
 			if ([212, 215, 213, 214].includes(s_ID)) { // 内火-外冰
 				mod.setTimeout(() => {
-					if (partyMsg) sendMsg(bossSkill.tip[bossQuest%2])
-					sendMsg((myDeBuff?bossZone.TipMsg[((s_ID==213 || s_ID==214)+myDeBuff+bossQuest)%2]:"X"), 25)
+					if (partyMsg) {
+						sendMsg(bossSkill.tip[bossQuest%2])
+					} else {
+						sendMsg((myDeBuff?bossZone.TipMsg[((s_ID==213 || s_ID==214)+myDeBuff+bossQuest)%2]:"X"), 25)
+					}
 				}, 300)
 			}
 			// 换色踩 上级吃虫 -> DEBUFF
@@ -337,11 +343,7 @@ module.exports = function TeraGuide(mod) {
 		if (msg_Id==9950115) sendMsg(`红龙 - 破盾成功`) // 阻止了煞布諾克的召喚儀式。
 		if (msg_Id==9950116) sendMsg(`黄龙 - 破盾成功`) // 阻止了煞雷奧斯的召喚儀式。
 		if (msg_Id==9950125) sendMsg(`龙族已狂爆!!`)
-		// 9950126 30s后狂暴化
-		// 9950028, 29, 30, 31, 40貝勒古斯激起血之波浪。
-		// 9950032貝勒古斯施展血之波浪。
 		if (msg_Id==9950060) sendMsg(bossZone.TipMsg[0], 25) // 貝勒古斯激起屬性的波浪。
-		// 9950062後方聚集了不吉利的氣息。
 		// DRC_1王 能量填充完畢..
 		if (msg_Id==9783103 || msg_Id==9983103 || msg_Id==3018103) sendMsg(bossZone.TipMsg)
 	}
@@ -376,7 +378,10 @@ module.exports = function TeraGuide(mod) {
 		if ([78151, 98151, 78152, 98152].includes(msg_Id)) { // 进入灵魂 / 挺能撑的
 			inverted = (msg_Id==78151 || msg_Id==98151)
 			nextMsg = inverted?(nextMsg+3):(nextMsg-3)
-			sendMsg(((inverted?"Into -> ":"Out  -> ") + bossZone.TipMsg[nextMsg]), 25)
+			// sendMsg(((inverted?"Into -> ":"Out  -> ") + bossZone.TipMsg[nextMsg]), 25)
+			mod.setTimeout(() => {
+				sendMsg((bossZone.TipMsg[0] + bossZone.TipMsg[nextMsg]), 25)
+			}, 5000)
 		}
 		// RK_3王 上级鉴定 执行协议:  1近 2远 3全
 		if ([935301, 935302, 935303, 3034301, 3034302, 3034303].includes(msg_Id)) {
