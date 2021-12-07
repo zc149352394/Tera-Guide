@@ -1208,6 +1208,7 @@ module.exports = {
 	// Kezzel's Gorge (5-Person)
 	9053: {Zone: KG, String: `${into} <font color="#56B4E9">巨人深林 [5人]</font>`},
 	// Draakon Arena - Normal - Hard
+	2105: {Zone: DA, String: `${into} <font color="#56B4E9">司令官修炼场</font> ${MODE[0]}`},
 	3102: {Zone: DA, String: `${into} <font color="#56B4E9">司令官修炼场</font> ${MODE[1]}`},
 	3202: {Zone: DA, String: `${into} <font color="#56B4E9">司令官修炼场</font> ${MODE[2]}`},
 	// Forbidden Arena [Undying Warlord] [Nightmare Undying Warlord]
